@@ -1,0 +1,14 @@
+{
+  "id": "xray-ultimate",
+  "name": "Xray",
+  "author": "Gloob7046",
+  "description": "You know. ",
+  "category": [
+    "Texture"
+  ],
+  "thumbnail": "xray.png",
+  "zips": {
+    "Xray.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
