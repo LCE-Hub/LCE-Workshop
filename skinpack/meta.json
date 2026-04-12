@@ -1,0 +1,14 @@
+{
+  "id": "skinpack",
+  "name": "SkyPack!",
+  "author": "SKYHIVIN",
+  "description": "An skinpack made by me!\nby SkyHeaven!\nan unemployed person. whom spent hours on this\nalso im SkyHeaven on the LCE discord too, if you have a skin or cape suggestoins, say it to me! i could add an custom skin and cape too!",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "Untitled design.png",
+  "zips": {
+    "SkyPack.zip": "{DLCDir}Windows64media"
+  },
+  "version": "1.0.0"
+}
