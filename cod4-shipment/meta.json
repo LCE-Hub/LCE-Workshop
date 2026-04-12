@@ -1,0 +1,14 @@
+{
+  "id": "cod4-shipment",
+  "name": "Shipment (COD4)",
+  "author": "funnyfella42",
+  "description": "Shipment from COD4",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "shipmentfunny.jpg",
+  "zips": {
+    "cod4shipment.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
