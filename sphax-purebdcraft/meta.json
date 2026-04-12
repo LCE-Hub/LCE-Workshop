@@ -1,0 +1,14 @@
+{
+  "id": "sphax-purebdcraft",
+  "name": "Sphax Purebdcraft",
+  "author": "ThePurpleDude",
+  "description": "This is Sphax Purebdcraft for LCE I have most of the the animated textures done working on the ui when I can and adding stuff that I find that it doesn't have yet.",
+  "category": [
+    "Texture"
+  ],
+  "thumbnail": "comparison.png",
+  "zips": {
+    "SphaxLCE_Purebdcraft.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
