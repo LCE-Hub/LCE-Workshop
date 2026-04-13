@@ -1,0 +1,15 @@
+{
+  "id": "blockpixel-lce",
+  "name": "BlockPixel-LCE",
+  "author": "krabbery",
+  "description": "A Port of Blockpixel for java. This Pack gives Cartoony Vibe into the game! (90% ported) Credit:JakobZero on Modrinth.",
+  "category": [
+    "Texture",
+    "DLC"
+  ],
+  "thumbnail": "2026-04-13_17.05.54.png",
+  "zips": {
+    "BlockPixel-LCE.zip": "{DLCDir}\\BlockPixel"
+  },
+  "version": "1.0.0"
+}
