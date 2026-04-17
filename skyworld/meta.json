@@ -9,7 +9,7 @@
   ],
   "thumbnail": "2026-04-17_18.11.33.png",
   "zips": {
-    "SkyPack.zip": "{DLCDir}"
+    "SkyPack.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
