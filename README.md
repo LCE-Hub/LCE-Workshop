@@ -34,7 +34,7 @@ Your `meta.json` must follow this structure:
 | `name` | String | Display name of the item. |
 | `author` | String | Your Github username. |
 | `description`| String | A short summary of what the item does. |
-| `extended_description`| String | A complete description in **`markdown`** of your project, it can include all available markdown features. This field is `optional` and may be left as `""` (empty), although it’s *not* recommended, for more information on how to structure your markdown look into [this](https://remarkjs.github.io/react-markdown/), for complete documentation look at this [MarkdownGuide](./MarkdownGuide.md) |
+| `extended_description`| String | A complete description in **`markdown`** of your project, it can include all available markdown features. This field is required but may be left as `""` (empty), although it’s *not* recommended, for more information on how to structure your markdown look into [this](https://remarkjs.github.io/react-markdown/), for complete documentation look at this [MarkdownGuide](./MarkdownGuide.md) |
 | `category` | String or String[] | Must be `Skin`, `Texture`, `World`, `Mod`, `DLC`, or multiple ones in a list. |
 | `thumbnail` | String | File name for your 1:1 image (PNG/JPG/SVG/GIF) for the preview. |
 | `zips`| Object | Names of your `.zip` files to extract. |
