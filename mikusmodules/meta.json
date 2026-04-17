@@ -3,6 +3,7 @@
   "name": "Miku's Modules", // Name
   "author": "dydymiku_", // Author
   "description": "A 3D Hatsune Miku Skin Pack that's taking all the modules from the Project Diva/Project Sekai games, as well as the fan made Mikus!", // Description
+  "extended_description": "",
   "category": ["Skin", "DLC"], // Category
   "thumbnail": "thumbnail.jpg", // Thumbnail filename
   "zips": {

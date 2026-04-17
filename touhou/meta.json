@@ -3,6 +3,7 @@
   "name": "Touhou SkinPack", // Name
   "author": "spellboundstargazer",
   "description": "A collection of Touhou skins based on characters that I like.", // Description
+  "extended_description": "",
   "category": ["Skin", "DLC"], // Category
   "thumbnail": "thumbnail.png", // Thumbnail filename
   "zips": { 

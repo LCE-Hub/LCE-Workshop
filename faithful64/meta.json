@@ -3,6 +3,7 @@
   "name": "Faithful 64x", // Name
   "author": "jakobisnow", // Author
   "description": "Faithful recreates Minecraft's original textures in higher resolutions while staying true to their original look and feel. Ported to LCE.", // Description
+  "extended_description": "",
   "category": ["Texture", "DLC"], // Category
   "thumbnail": "thumbnail.jpg", // Thumbnail filename
   "zips": {
