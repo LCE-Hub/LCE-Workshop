@@ -1,0 +1,15 @@
+{
+  "id": "fnaf-v1",
+  "name": "Five Night's at Freddy's Skin Pack",
+  "author": "irv77",
+  "description": "Nobledez original skin pack of Five Nights at Freddy's skins (fnaf 1- fnaf ucn)",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "FnafSkinPack.png",
+  "zips": {
+    "FNAFSkinPack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
