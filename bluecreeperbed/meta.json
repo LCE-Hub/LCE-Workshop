@@ -1,0 +1,15 @@
+{
+  "id": "bluecreeperbed",
+  "name": "BLUE CREEPER BED TEXTURE by Skyheaven",
+  "author": "SKYHIVIN",
+  "description": "I decided to see if i could make custom beds. as it turns out i can\nso enjoy!\n-SkyHeaven",
+  "category": [
+    "Texture",
+    "DLC"
+  ],
+  "thumbnail": "2026-04-20_12.44.17.png",
+  "zips": {
+    "BlueCreeperBed.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
