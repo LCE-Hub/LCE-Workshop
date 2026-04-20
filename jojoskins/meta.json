@@ -1,0 +1,16 @@
+{
+  "id": "jojoskins",
+  "name": "Jotaro vs Dio Skin Pack",
+  "author": "zapamitany123",
+  "description": "Jotaro and Dio are in Minecraft! Pick these bizzare skins from your favourite anime and Stand Proud! (star-platinum included)",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "jojodio.png",
+  "zips": {
+    "jotaro vs dio skins.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
