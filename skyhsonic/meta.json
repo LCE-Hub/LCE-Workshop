@@ -1,0 +1,15 @@
+{
+  "id": "skyhsonic",
+  "name": "SONIC THE HEDGEHOG SKINPACK",
+  "author": "SKYHIVIN",
+  "description": "Sonic the Hedgehog skinpack!\nmade by SkyHeaven!!",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "2026-04-20_13.19.30.png",
+  "zips": {
+    "Sanic.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
