@@ -1,0 +1,15 @@
+{
+  "id": "gres-skinpack",
+  "name": "Gre's Skin Pack",
+  "author": "GreGrenier",
+  "description": "Skin's I've made ! It's one of the first skin pack that was created after the leak !\nIt features skins from South Park, Mario and the rock band \"Car Seat Headrest\" !",
+  "extended_description": "",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "Capture d'écran 2026-04-20 211014.png",
+  "zips": {
+    "Gre's Skin 1.1.zip": "{DLCDir}"
+  },
+  "version": "1.0.1"
+}
