@@ -1,0 +1,16 @@
+{
+  "id": "breaking-rools-4-ruracraft",
+  "name": "Breaking Rools",
+  "author": "LilasSonicBoi",
+  "description": "a DLC for Ruracraft from the New HEDGECRAFT [Krabozaki] skinpack. it refers to Breaking Bad TV series and is made by my friend, Budon who also created Ruracraft",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "Breaking Rools Thumbnail.png",
+  "zips": {
+    "Breaking Rools - LCE.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
