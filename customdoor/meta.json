@@ -1,0 +1,15 @@
+{
+  "id": "customdoor",
+  "name": "CUSTOM GLASS DOOR",
+  "author": "SKYHIVIN",
+  "description": "Made by me, SkyHeaven, this texturepack makes the default wooden door an modern looking custom glass door",
+  "category": [
+    "Texture",
+    "DLC"
+  ],
+  "thumbnail": "2026-04-20_13.53.46.png",
+  "zips": {
+    "CustomDoor.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
