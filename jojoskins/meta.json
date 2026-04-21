@@ -1,0 +1,16 @@
+{
+  "id": "jojoskins",
+  "name": "Jotaro vs Dio skinpack",
+  "author": "zapamitany123",
+  "description": "Your favourite bizzare characters are in Minecraft! Use this DLC for having golden expirience. (ge not included)",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "jojodio.png",
+  "zips": {
+    "jotaro vs dio skins.zip": "{DLCDir}"
+  },
+  "version": "1.0.1"
+}
