@@ -1,0 +1,15 @@
+{
+  "id": "ocd-texture-pack",
+  "name": "oCd Texture Pack",
+  "author": "IveBeenAl0ne",
+  "description": "Got OCD? Get oCd Pack!!",
+  "extended_description": "",
+  "category": [
+    "Texture"
+  ],
+  "thumbnail": "banner.png",
+  "zips": {
+    "oCd_Texture_Pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
