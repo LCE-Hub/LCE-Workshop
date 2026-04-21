@@ -1,0 +1,16 @@
+{
+  "id": "mccreepypastas",
+  "name": "Minecraft Creepypastas",
+  "author": "zapamitany123",
+  "description": "Skin collection of well known beings such as Herobrine, Null, Lick or Entity 303!",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "creepypastass.png",
+  "zips": {
+    "creepypastas.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
