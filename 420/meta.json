@@ -5,11 +5,12 @@
   "description": "Celebrate April 20th with Skin Pack 420! all of your favorite 420 icons such as Bugs Bunny and Gordon Weedman",
   "extended_description": "",
   "category": [
-    "Skin"
+    "Skin",
+    "DLC"
   ],
   "thumbnail": "InShot_20260422_140656526.jpg",
   "zips": {
     "Skin Pack 420.zip": "{DLCDir}"
   },
-  "version": "420.1"
+  "version": "420.0.0"
 }
