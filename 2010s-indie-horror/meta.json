@@ -1,0 +1,15 @@
+{
+  "id": "2010s-indie-horror",
+  "name": "2010s Indie Horror Skin Pack",
+  "author": "JosheryLemon",
+  "description": "A skin pack I made with a bunch of characters from various 2010s indie horror things.",
+  "extended_description": "",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "skinpackthumbnail.png",
+  "zips": {
+    "2010sIndieHorror.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
