@@ -5,8 +5,7 @@
   "description": "Bikini Bottom Map ported to Legacy Console Edition",
   "extended_description": "## ![SpongeBob SquarePants DLC](https://raw.githubusercontent.com/LCE-Hub/LCE-Workshop/refs/heads/main/spongebob-squarepants/title.png \"advertisement\")\nWho lives in a pineapple under the sea? Well it's SpongeBob SquarePants, featuring the Bikini Bottom map, and soon included skin pack!—\n![Preview Image](https://raw.githubusercontent.com/LCE-Hub/LCE-Workshop/refs/heads/main/spongebob-squarepants/preview.png)\n\n### The Bikini Bottom\n- [x] Main Bikini Bottom Map Ported\n- [ ] Finish Interiors of Buildings\n- [ ] Finalize/Polish Map \n\n### _Future Skin Pack_\n- [ ] _Include Skin Pack Containing Favorite Characters_\n\n### Credits\n> Ported/Created By [IRV77](https://irv77.github.io/) & [Vulen Corporation](https://discord.com/invite/xuu8TnSY4b)",
   "category": [
-    "World",
-    "DLC"
+    "World"
   ],
   "thumbnail": "spongebob-squarepants.png",
   "zips": {
