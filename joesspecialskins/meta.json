@@ -1,0 +1,16 @@
+{
+  "id": "joesspecialskins",
+  "name": "Joe's Special Skin(s)",
+  "author": "Joegamer50789",
+  "description": "Skins of people i know irl",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "speed-ishowspeed.gif",
+  "zips": {
+    "Joes skin pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

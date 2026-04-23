@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T18:32:47.543Z",
-  "count": 23,
+  "generated_at": "2026-04-23T10:42:24.055Z",
+  "count": 24,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -176,6 +176,22 @@
         "New HEDGECRAFT [Krabozaki] - LCE.zip": "{DLCDir}"
       },
       "version": "2.0.3"
+    },
+    {
+      "id": "joesspecialskins",
+      "name": "Joe's Special Skin(s)",
+      "author": "Joegamer50789",
+      "description": "Skins of people i know irl",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "speed-ishowspeed.gif",
+      "zips": {
+        "Joes skin pack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
     },
     {
       "id": "jojoskins",
