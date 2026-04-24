@@ -1,0 +1,12 @@
+{
+  "id": "test", // ID
+  "name": "Aether Mod", // Name
+  "author": "aRockefeler",
+  "description": "Aether Mod Port", // Description
+  "extended_description": "# Aether Mod for LCE!\nSoon this mod will be fully ported and available On NeoLegacy as a mod\nThis version is unstable\nyou may experience crashes or the game may slow down at times.",
+  "category": ["Modpack", "Random"], // Category
+  "thumbnail": "thumbnail.png", // Thumbnail filename
+  "logo": "logo.png",
+  "url": "https://github.com/Frcoxd/aether-papu/releases/download/Aether/Release.zip",
+  "version": "1.0.0"
+}

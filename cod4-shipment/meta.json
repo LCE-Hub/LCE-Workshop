@@ -4,9 +4,7 @@
   "author": "funnyfella42",
   "description": "Shipment from COD4",
   "extended_description": "",
-  "category": [
-    "World"
-  ],
+  "category": ["World"],
   "thumbnail": "shipmentfunny.jpg",
   "zips": {
     "cod4shipment.zip": "{GameHDD}"

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T18:32:47.543Z",
-  "count": 23,
+  "generated_at": "2026-04-24T21:14:16.987Z",
+  "count": 25,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -178,6 +178,22 @@
       "version": "2.0.3"
     },
     {
+      "id": "joesspecialskins",
+      "name": "Joe's Special Skin(s)",
+      "author": "Joegamer50789",
+      "description": "Skins of people i know irl",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "speed-ishowspeed.gif",
+      "zips": {
+        "Joes skin pack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
       "id": "jojoskins",
       "name": "Jotaro vs Dio skinpack",
       "author": "zapamitany123",
@@ -301,6 +317,21 @@
       "thumbnail": "comparison.png",
       "zips": {
         "SphaxLCE_Purebdcraft.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "spongebob-squarepants",
+      "name": "SpongeBob SquarePants",
+      "author": "irv77",
+      "description": "Bikini Bottom Map ported to Legacy Console Edition",
+      "extended_description": "## ![SpongeBob SquarePants DLC](https://raw.githubusercontent.com/LCE-Hub/LCE-Workshop/refs/heads/main/spongebob-squarepants/title.png \"advertisement\")\nWho lives in a pineapple under the sea? Well it's SpongeBob SquarePants, featuring the Bikini Bottom map, and soon included skin pack!—\n![Preview Image](https://raw.githubusercontent.com/LCE-Hub/LCE-Workshop/refs/heads/main/spongebob-squarepants/preview.png)\n\n### The Bikini Bottom\n- [x] Main Bikini Bottom Map Ported\n- [ ] Finish Interiors of Buildings\n- [ ] Finalize/Polish Map \n\n### _Future Skin Pack_\n- [ ] _Include Skin Pack Containing Favorite Characters_\n\n### Credits\n> Ported/Created By [IRV77](https://irv77.github.io/) & [Vulen Corporation](https://discord.com/invite/xuu8TnSY4b)",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "spongebob-squarepants.png",
+      "zips": {
+        "Spongebob-Squarepants.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
