@@ -1,0 +1,12 @@
+{
+  "id": "minecraftconsoles", // ID
+  "name": "MinecraftConsoles (MCLCE)", // Name
+  "author": "smartcmd",
+  "description": "Vanilla LCE intended as an upstream base for other projects.", // Description
+  "extended_description": "Vanilla LCE intended as an upstream base for other projects. Originally based on a WIP version of TU19.",
+  "category": ["Vanilla"], // Category
+  "thumbnail": "thumbnail.png", // Thumbnail filename
+  "logo": "logo.png",
+  "url": "https://github.com/MCLCE/MinecraftConsoles/releases/download/nightly/LCEWindows64.zip",
+  "version": "1.0.0"
+}
