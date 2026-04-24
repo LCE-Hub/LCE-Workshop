@@ -1,0 +1,16 @@
+{
+  "id": "sibuc",
+  "name": "MARIO SKINPACK BY SKY!",
+  "author": "HEAVENII",
+  "description": "3rd time uploading this bcz of github.",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "2026-04-20_13.53.46.png",
+  "zips": {
+    "MarioPack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
