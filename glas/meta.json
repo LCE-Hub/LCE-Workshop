@@ -1,0 +1,16 @@
+{
+  "id": "glas",
+  "name": "CUSTOM DOOR- TEXTURE PACK",
+  "author": "HEAVENII",
+  "description": "BY skyheaven.",
+  "extended_description": "",
+  "category": [
+    "Texture",
+    "DLC"
+  ],
+  "thumbnail": "2026-04-20_13.52.36.png",
+  "zips": {
+    "CustomDoor.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
