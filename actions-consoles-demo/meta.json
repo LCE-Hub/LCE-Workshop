@@ -1,0 +1,15 @@
+{
+  "id": "actions-consoles-demo",
+  "name": "Actions And Consoles",
+  "author": "Starlow-l0l",
+  "description": "My new project!",
+  "extended_description": "",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "minecraft_title.png",
+  "zips": {
+    "Actions And Consoles.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
