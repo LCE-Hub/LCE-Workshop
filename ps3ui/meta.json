@@ -2,14 +2,14 @@
   "id": "ps3ui",
   "name": "PS3 UI",
   "author": "SuperCatElvis",
-  "description": "Full PS3 controller UI, faithfully restored.\nReplace the \"MediaWindows64.arc\" in \\Common\\Media with this mods version.",
-  "extended_description": "",
+  "description": "Full PS3 controller UI, faithfully restored.",
+  "extended_description": "# DO NOT USE ON NEOLEGACY",
   "category": [
     "Mod"
   ],
   "thumbnail": "PlayStation.png",
   "zips": {
-    "PS3.zip": "{DLCDir}"
+    "PS3.zip": "{MediaDir}"
   },
   "version": "1.0.0"
 }
