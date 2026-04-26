@@ -1,0 +1,15 @@
+{
+  "id": "keyboardmouseui",
+  "name": "Keyboard & Mouse U",
+  "author": "SuperCatElvis",
+  "description": "A full keyboard and mouse UI replacement for Minecraft: Legacy Console Edition on PC.\n\nUnlike the original Xbox 360 and PS3 versions, where the interface was built entirely around a controller. The PC version introduces a number of inconsistencies. Many actions that were originally mapped to a single controller button are split across multiple keys, which can cause incorrect icons.\n\nThis mod aims to restore consistency by replacing controller prompts with accurate keyboard and mouse inputs, using the most commonly used key for each controller action.",
+  "extended_description": "",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "PC 2.png",
+  "zips": {
+    "PC.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
