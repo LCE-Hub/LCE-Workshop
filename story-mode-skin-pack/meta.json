@@ -1,0 +1,15 @@
+{
+  "id": "story-mode-skin-pack",
+  "name": "Story Mode Skin Pack",
+  "author": "mineguy-guy",
+  "description": "Create your own adventure with this skin pack featuring your favorite characters from Minecraft: Story Mode. All the Jesse, Olivia, Axel, Petra skins and many more are included!\n(Not all of them were ported sorry)",
+  "extended_description": "",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "MinecraftStoryModeSP.png",
+  "zips": {
+    "Story Mode Skin Pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
