@@ -1,0 +1,16 @@
+{
+  "id": "edmundmcmillenpack",
+  "name": "Edmund Mcmillen Pack",
+  "author": "Joegamer50789",
+  "description": "Skins of some characters made by Edmund Mcmillen",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "Untitled.jpg",
+  "zips": {
+    "Edmund Pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
