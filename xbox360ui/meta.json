@@ -1,0 +1,15 @@
+{
+  "id": "xbox360ui",
+  "name": "Xbox360 UI",
+  "author": "SuperCatElvis",
+  "description": "Full Xbox 360 controller UI, faithfully restored.\nReplace the \"MediaWindows64.arc\" in \\Common\\Media with this mods version.",
+  "extended_description": "",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "Xbox360.png",
+  "zips": {
+    "Xbox360.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
