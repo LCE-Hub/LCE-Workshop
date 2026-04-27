@@ -1,0 +1,16 @@
+{
+  "id": "sourceskinpack",
+  "name": "Source Skin Pack",
+  "author": "Dllie",
+  "description": "Part of the Source Mash Up\nlook for lce_flatgrass",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "InShot_20260427_152800218.jpg",
+  "zips": {
+    "Source Skin Pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
