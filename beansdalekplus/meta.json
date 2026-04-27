@@ -5,11 +5,12 @@
   "description": "Skins based on Bean's Dalek Plus a bedrock Addon",
   "extended_description": "",
   "category": [
-    "Skin"
+    "Skin",
+    "DLC"
   ],
   "thumbnail": "2026-04-27_11.07.13.png",
   "zips": {
-    "Bean's Dalek Plus.zip": "{Windows64Media/DLC}"
+    "Bean's Dalek Plus.zip": "{DLCDir}"
   },
   "version": "1.0.0"
 }
