@@ -5,12 +5,11 @@
   "description": "Part of the Source Mash Up\nlook for Source Skin Pack",
   "extended_description": "",
   "category": [
-    "World",
-    "DLC"
+    "World"
   ],
   "thumbnail": "InShot_20260427_153159260.jpg",
   "zips": {
-    "lce_flatgrass.zip": "{DLCDir}"
+    "lce_flatgrass.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
