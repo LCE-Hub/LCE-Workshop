@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T19:35:30.775Z",
-  "count": 35,
+  "generated_at": "2026-04-28T19:36:02.740Z",
+  "count": 36,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -96,6 +96,21 @@
       "thumbnail": "Breaking Rools Thumbnail.png",
       "zips": {
         "Breaking Rools - LCE.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "cand-land-hg",
+      "name": "Candy Land Hunger Games Map",
+      "author": "JackalopeJack",
+      "description": "Originally created by MRCHUNKROC, Darkemokitten1, and xXZia18Xx for the Xbox 360. This Hunger Games map has been painstakingly recreated for LCE. It features every single item from the original map. Rather than play a board game, why not fight to the death in one? For the best experience, this map supports up to 8 players. Remember to turn TNT and Fire Spreads off before playing. Enjoy and have fun!",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "CandyLand2.png",
+      "zips": {
+        "Candy Land HG.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
