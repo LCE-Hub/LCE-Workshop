@@ -1,0 +1,15 @@
+{
+  "id": "cand-land-hg",
+  "name": "Candy Land Hunger Games Map",
+  "author": "JackalopeJack",
+  "description": "Originally created by MRCHUNKROC, Darkemokitten1, and xXZia18Xx for the Xbox 360. This Hunger Games map has been painstakingly recreated for LCE. It features every single item from the original map. Rather than play a board game, why not fight to the death in one? For the best experience, this map supports up to 8 players. Remember to turn TNT and Fire Spreads off before playing. Enjoy and have fun!",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "CandyLand2.png",
+  "zips": {
+    "Candy Land HG.zip": "{GameHDDDir}"
+  },
+  "version": "1.0.0"
+}
