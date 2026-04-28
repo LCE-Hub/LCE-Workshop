@@ -9,7 +9,7 @@
   ],
   "thumbnail": "Stampys Bedroom HG2.png",
   "zips": {
-    "Stampys Bedroom HG.zip": "{GameHDDDir}"
+    "Stampys Bedroom HG.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
