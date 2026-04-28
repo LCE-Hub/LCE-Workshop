@@ -1,0 +1,15 @@
+{
+  "id": "mario-universe-hg",
+  "name": "Mario Universe Hunger Games Map",
+  "author": "JackalopeJack",
+  "description": "Originally created by MrMikieB3 for the Xbox 360, this Hunger Games map has been painstakingly recreated for LCE. It features every single item from the original map with proper names and enchantment effects. Some chests are to remain empty, as I believe the original creator forgot to fill them before publishing the map. For the best experience, this map supports up to 8 players. Remember to turn TNT and Fire Spreads off before playing. Enjoy and have fun!",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "Mario Universe HG2.png",
+  "zips": {
+    "Mario Universe HG.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
