@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T19:36:02.740Z",
-  "count": 36,
+  "generated_at": "2026-04-28T19:38:38.497Z",
+  "count": 37,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -471,6 +471,21 @@
       "thumbnail": "spongebob-squarepants.png",
       "zips": {
         "Spongebob-Squarepants.zip": "{GameHDD}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "stampys-bedroom-hg",
+      "name": "Stampy's Bedroom Hunger Games Map",
+      "author": "JackalopeJack",
+      "description": "Originally created by MrMikieB3 for the Xbox 360, this Hunger Games map has been painstakingly recreated for LCE. Take a trip down memory lane and visit Stampy's Bedroom with him and his cast of characters. It features every single item from the original map with proper names and enchantment effects. For the best experience, this map supports up to 8 players. Remember to turn TNT and Fire Spreads off before playing. Enjoy and have fun!",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "Stampys Bedroom HG2.png",
+      "zips": {
+        "Stampys Bedroom HG.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
