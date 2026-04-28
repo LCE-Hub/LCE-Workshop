@@ -9,7 +9,7 @@
   ],
   "thumbnail": "Mario Universe HG2.png",
   "zips": {
-    "Mario Universe HG.zip": "{DLCDir}"
+    "Mario Universe HG.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
