@@ -9,7 +9,7 @@
   ],
   "thumbnail": "CandyLand2.png",
   "zips": {
-    "Candy Land HG.zip": "{GameHDDDir}"
+    "Candy Land HG.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
