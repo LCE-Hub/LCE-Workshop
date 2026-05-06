@@ -1,0 +1,15 @@
+{
+  "id": "thevoid",
+  "name": "The Void",
+  "author": "neoapps-dev",
+  "description": "A world template with nothing but a single bedrock block.",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "images.jpg",
+  "zips": {
+    "thevoid.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
