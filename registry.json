@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T19:38:38.497Z",
-  "count": 37,
+  "generated_at": "2026-05-06T15:32:58.111Z",
+  "count": 38,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -534,6 +534,21 @@
       "thumbnail": "thumbnail.jpg",
       "zips": {
         "texture.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "thevoid",
+      "name": "The Void",
+      "author": "neoapps-dev",
+      "description": "A world template with nothing but a single bedrock block.",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "images.jpg",
+      "zips": {
+        "thevoid.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
