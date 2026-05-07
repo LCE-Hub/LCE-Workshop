@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T10:02:46.944Z",
+  "generated_at": "2026-05-07T23:20:16.792Z",
   "count": 40,
   "packages": [
     {
@@ -136,11 +136,11 @@
       "description": "Creators of the map\n\n-Slix Killer\n\n-CentrinoUltra\n\n-ClevelandCavs1\n\n-TheErxinator\n\n1v1 or more map, defend your castle and claim the middle to open the enemies gate!\n\nOriginal Xbox360 Map (.bin) download- https://www.planetminecraft.com/project/castle-siege-2/\n\nConverted to LCE with Console2Lce",
       "extended_description": "",
       "category": [
-        "Skin"
+        "World"
       ],
       "thumbnail": "CS2.PNG",
       "zips": {
-        "Castle Siege 2.zip": "{DLCDir}"
+        "Castle Siege 2.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
@@ -155,7 +155,7 @@
       ],
       "thumbnail": "CS.PNG",
       "zips": {
-        "Castle_Siege_1.zip": "{DLCDir}"
+        "Castle_Siege_1.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
