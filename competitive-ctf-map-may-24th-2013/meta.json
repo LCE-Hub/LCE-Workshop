@@ -1,0 +1,15 @@
+{
+  "id": "competitive-ctf-map-may-24th-2013",
+  "name": "Castle siege 2",
+  "author": "Fireyvortex2112",
+  "description": "Creators of the map\n\n-Slix Killer\n\n-CentrinoUltra\n\n-ClevelandCavs1\n\n-TheErxinator\n\n1v1 or more map, defend your castle and claim the middle to open the enemies gate!\n\nOriginal Xbox360 Map (.bin) download- https://www.planetminecraft.com/project/castle-siege-2/\n\nConverted to LCE with Console2Lce",
+  "extended_description": "",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "CS2.PNG",
+  "zips": {
+    "Castle Siege 2.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
