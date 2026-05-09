@@ -1,0 +1,16 @@
+{
+  "id": "hedgecraft-krabozaki",
+  "name": "New HEDGECRAFT [Krabozaki]",
+  "author": "LilasSonicBoi",
+  "description": "you know, there's HEDGECITY here and they're pretending themselves in Minecraft. they're complete cubes, no doubt. you saw nothing, Lilac. oh, you're already online. (Also available on Planet Minecraft at: www.planetminecraft.com/member/lilassonicboi)",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "Krab Game Online.png",
+  "zips": {
+    "New HEDGECRAFT [Krabozaki].zip": "{DLCDir}"
+  },
+  "version": "2.0.5"
+}
