@@ -12,5 +12,5 @@
   "zips": {
     "New HEDGECRAFT [Krabozaki].zip": "{DLCDir}"
   },
-  "version": "2.0.5a"
+  "version": "2.0.5" //neo: note to lilassonicboi: do not put letters in here it has to be x.y.z
 }
