@@ -1,0 +1,16 @@
+{
+  "id": "starlicious",
+  "name": "SPONGEBOB SKIN PACK",
+  "author": "StarliciousOffcial",
+  "description": "Some SpongeBob skins for the Bikini Bottom Map. I do not claim the skins as mine; they are just used for either roleplay or used for fun\n\nCredits:\n\nModinator\nbfb5\nsqirrell\nunktenchi\nRee_\nPindan123\nssly🎠\n13_ddahl\nmichaelshores",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "Screenshot (587).png",
+  "zips": {
+    "Spongebob Skin Pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
