@@ -1,0 +1,13 @@
+{
+  "id": "mario-textures-skins", 
+  "name": "Mario Textures & Skins", 
+  "author": "useless-zombie", 
+  "description": "Adds the Mario texture pack and skins. The skins were made by dydymiku.", 
+  "extended_description": "", 
+  "category": ["Skin", "Texture", "DLC"], 
+  "thumbnail": "thumbnail.png", 
+  "zips": { 
+    "Mario.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
