@@ -1,0 +1,15 @@
+{
+  "id": "drainage",
+  "name": "Drainage",
+  "author": "Dllie",
+  "description": "A Hunger Games/Battle Map by Dllie, press the buttons on the 2 diamond blocks outside the map before playing",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "InShot_20260523_190443357.jpg",
+  "zips": {
+    "Drainage by Dllie.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
