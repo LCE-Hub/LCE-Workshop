@@ -1,0 +1,18 @@
+{
+  "id": "texturepacktemplate",
+  "name": "TexturePack Template",
+  "author": "cheapmanga",
+  "description": "Minecraft LCE template and a detailed guide for texture-pack making. This template was made by CheapManga and Gamer99",
+  "extended_description": "",
+  "category": [
+    "Mod",
+    "DLC",
+    "Texture",
+    "World"
+  ],
+  "thumbnail": "563178726-903d83e5-d2be-414a-acf1-20cda2a8f89d.png",
+  "zips": {
+    "TexturePack.Template.v5.zip": "{DLCDir}"
+  },
+  "version": "5.0.0"
+}
