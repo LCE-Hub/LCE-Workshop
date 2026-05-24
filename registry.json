@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T15:39:17.290Z",
+  "generated_at": "2026-05-24T15:46:47.608Z",
   "count": 45,
   "packages": [
     {
@@ -665,9 +665,9 @@
     },
     {
       "id": "tu12tutorial",
-      "name": "TU12 Tutorial DLC",
+      "name": "TU14 Tutorial DLC",
       "author": "neoapps-dev",
-      "description": "DLCified TU12 tutorial world for neoLegacy",
+      "description": "DLCified TU14 tutorial world for neoLegacy",
       "extended_description": "",
       "category": [
         "DLC",
@@ -677,7 +677,7 @@
       "zips": {
         "0000TU12Tutorial.zip": "{DLCDir}"
       },
-      "version": "12.0.0"
+      "version": "14.0.0"
     },
     {
       "id": "vintage-lce",
