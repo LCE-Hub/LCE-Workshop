@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T11:20:33.936Z",
-  "count": 42,
+  "generated_at": "2026-05-24T12:11:14.173Z",
+  "count": 43,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -187,6 +187,21 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "deadmau5.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "drainage",
+      "name": "Drainage",
+      "author": "Dllie",
+      "description": "A Hunger Games/Battle Map by Dllie, press the buttons on the 2 diamond blocks outside the map before playing",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "InShot_20260523_190443357.jpg",
+      "zips": {
+        "Drainage by Dllie.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
