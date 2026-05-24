@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T12:11:14.173Z",
-  "count": 43,
+  "generated_at": "2026-05-24T15:32:32.574Z",
+  "count": 44,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -614,6 +614,23 @@
         "texture.zip": "{DLCDir}"
       },
       "version": "1.0.0"
+    },
+    {
+      "id": "texturepacktemplate",
+      "name": "TexturePack Template",
+      "author": "cheapmanga",
+      "description": "Minecraft LCE template and a detailed guide for texture-pack making. This template was made by CheapManga and Gamer99",
+      "extended_description": "",
+      "category": [
+        "Mod",
+        "DLC",
+        "Texture"
+      ],
+      "thumbnail": "563178726-903d83e5-d2be-414a-acf1-20cda2a8f89d.png",
+      "zips": {
+        "TexturePack.Template.v5.zip": "{DLCDir}"
+      },
+      "version": "5.0.0"
     },
     {
       "id": "thevoid",
