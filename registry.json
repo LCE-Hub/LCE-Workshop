@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T15:32:32.574Z",
-  "count": 44,
+  "generated_at": "2026-05-24T15:39:17.290Z",
+  "count": 45,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -662,6 +662,22 @@
         "AriTouhouSkins.zip": "{DLCDir}"
       },
       "version": "1.0.0"
+    },
+    {
+      "id": "tu12tutorial",
+      "name": "TU12 Tutorial DLC",
+      "author": "neoapps-dev",
+      "description": "DLCified TU12 tutorial world for neoLegacy",
+      "extended_description": "",
+      "category": [
+        "DLC",
+        "World"
+      ],
+      "thumbnail": "TU12.png",
+      "zips": {
+        "0000TU12Tutorial.zip": "{DLCDir}"
+      },
+      "version": "12.0.0"
     },
     {
       "id": "vintage-lce",
