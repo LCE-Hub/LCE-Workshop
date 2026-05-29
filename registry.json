@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T15:46:47.608Z",
-  "count": 45,
+  "generated_at": "2026-05-29T15:22:00.786Z",
+  "count": 46,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -64,6 +64,22 @@
       "thumbnail": "2026-04-27_11.07.13.png",
       "zips": {
         "Bean's Dalek Plus.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "ben-10-skinpack",
+      "name": "Ben 10 Skinpack",
+      "author": "loganpcollins2010-lab",
+      "description": "It started when an alien device did what it did, and now you can play as the wielder of that device, and his original 10 transformations!",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "ben 10 pack.png",
+      "zips": {
+        "Ben 10 Skinpack.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
