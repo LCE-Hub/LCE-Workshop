@@ -21,8 +21,16 @@ We welcome contributors! To add your content to the workshop:
 
 1. **Fork this repository.**
 2. **Upload your content**: Create a subfolder with your mod ID and place your assets (zips, thumbnails).
-3. **Update `meta.json` in your subfolder**: Add your item to the list following the schema below.
-4. **Submit a Pull Request**: Our team will review your submission for quality and safety.
+3. **Make sure your content follows our simple rules**.
+4. **Update `meta.json` in your subfolder**: Add your item to the list following the schema below.
+5. **Submit a Pull Request**: Our team will review your submission for quality and safety.
+
+## Submission Rules
+
+- No NSFW content.
+- Give credit where credit is due.
+- Use proper categories (multiple are okay).
+- Try avoiding half-finished or low-effort/quality content.
 
 ## Schema Details
 
