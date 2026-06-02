@@ -1,0 +1,16 @@
+{
+  "id": "replastic-texture-pack",
+  "name": "Replastic Tetxure Pack",
+  "author": "EnchantedDragons7",
+  "description": "A brightly colored, simple texture pack with chocolate block highlighting and simple icons.\n\nUpdated by FrizyDragon",
+  "extended_description": "",
+  "category": [
+    "Texture",
+    "DLC"
+  ],
+  "thumbnail": "thumbnail.png",
+  "zips": {
+    "RePlastic Texture Pack.zip": "{DLCDir}Windows64Media/DLC"
+  },
+  "version": "1.0.0"
+}
