@@ -10,7 +10,7 @@
   ],
   "thumbnail": "thumbnail.png",
   "zips": {
-    "RePlastic Texture Pack.zip": "{DLCDir}Windows64Media/DLC"
+    "RePlastic Texture Pack.zip": "{DLCDir}"
   },
   "version": "1.0.0"
 }
