@@ -1,0 +1,16 @@
+{
+  "id": "skyblock",
+  "name": "Skyblock",
+  "author": "realWarpWhistler",
+  "description": "The classic Skyblock map!",
+  "extended_description": "",
+  "category": [
+    "World",
+    "DLC"
+  ],
+  "thumbnail": "sb-download-2.1.jpeg",
+  "zips": {
+    "Skyblock-2.1.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
