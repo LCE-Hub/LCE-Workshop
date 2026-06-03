@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T01:29:29.048Z",
-  "count": 47,
+  "generated_at": "2026-06-03T01:31:30.170Z",
+  "count": 48,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -470,6 +470,22 @@
       "thumbnail": "PlayStation.png",
       "zips": {
         "PS3.zip": "Common/Media"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "replastic-texture-pack",
+      "name": "Replastic Tetxure Pack",
+      "author": "EnchantedDragons7",
+      "description": "A brightly colored, simple texture pack with chocolate block highlighting and simple icons.\n\nUpdated by FrizyDragon",
+      "extended_description": "",
+      "category": [
+        "Texture",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "RePlastic Texture Pack.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
