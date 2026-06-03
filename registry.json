@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T13:42:17.351Z",
-  "count": 46,
+  "generated_at": "2026-06-03T01:29:29.048Z",
+  "count": 47,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -300,6 +300,21 @@
         "New HEDGECRAFT [Krabozaki].zip": "{DLCDir}"
       },
       "version": "2.0.5"
+    },
+    {
+      "id": "infinitesplashtext",
+      "name": "Infinite Splash Text!",
+      "author": "LCEGuys",
+      "description": "a community project thats updated regularly!",
+      "extended_description": "",
+      "category": [
+        "Mod"
+      ],
+      "thumbnail": "InShot_20260531_094957184.jpg",
+      "zips": {
+        "splashes.zip": "Common/Media/MediaWindows64"
+      },
+      "version": "1.0.0"
     },
     {
       "id": "joesspecialskins",
