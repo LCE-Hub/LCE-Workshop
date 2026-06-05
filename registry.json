@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T13:17:42.639Z",
-  "count": 49,
+  "generated_at": "2026-06-05T13:20:07.901Z",
+  "count": 50,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -518,6 +518,21 @@
       "thumbnail": "Untitled design.png",
       "zips": {
         "SkyPack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "skyblock",
+      "name": "Skyblock",
+      "author": "realWarpWhistler",
+      "description": "The classic Skyblock map!",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "sb-download-2.1.jpeg",
+      "zips": {
+        "Skyblock-2.1.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
