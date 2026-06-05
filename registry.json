@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T13:00:23.326Z",
-  "count": 41,
+  "generated_at": "2026-06-03T01:31:30.170Z",
+  "count": 48,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -22,7 +22,7 @@
       "id": "420",
       "name": "Skin Pack 420",
       "author": "Dllie",
-      "description": "Celebrate April 20th with Skin Pack 420! all of your favorite 420 icons such as Bugs Bunny and Gordon Weedman",
+      "description": "Celebrate April 20th (Or 4:20pm on any day) with Skin Pack 420!\ni updated the skin pack recently and added Seth Rogan!",
       "extended_description": "",
       "category": [
         "Skin",
@@ -32,7 +32,7 @@
       "zips": {
         "Skin Pack 420.zip": "{DLCDir}"
       },
-      "version": "420.0.0"
+      "version": "420.0.1"
     },
     {
       "id": "barebones",
@@ -64,6 +64,22 @@
       "thumbnail": "2026-04-27_11.07.13.png",
       "zips": {
         "Bean's Dalek Plus.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "ben-10-skinpack",
+      "name": "Ben 10 Skinpack",
+      "author": "loganpcollins2010-lab",
+      "description": "It started when an alien device did what it did, and now you can play as the wielder of that device, and his original 10 transformations!",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "ben 10 pack.png",
+      "zips": {
+        "Ben 10 Skinpack.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
@@ -191,6 +207,21 @@
       "version": "1.0.0"
     },
     {
+      "id": "drainage",
+      "name": "Drainage",
+      "author": "Dllie",
+      "description": "A Hunger Games/Battle Map by Dllie, press the buttons on the 2 diamond blocks outside the map before playing",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "InShot_20260523_190443357.jpg",
+      "zips": {
+        "Drainage by Dllie.zip": "{GameHDD}"
+      },
+      "version": "1.0.0"
+    },
+    {
       "id": "edmundmcmillenpack",
       "name": "Edmund Mcmillen Pack",
       "author": "Joegamer50789",
@@ -271,6 +302,21 @@
       "version": "2.0.5"
     },
     {
+      "id": "infinitesplashtext",
+      "name": "Infinite Splash Text!",
+      "author": "LCEGuys",
+      "description": "a community project thats updated regularly!",
+      "extended_description": "",
+      "category": [
+        "Mod"
+      ],
+      "thumbnail": "InShot_20260531_094957184.jpg",
+      "zips": {
+        "splashes.zip": "Common/Media/MediaWindows64"
+      },
+      "version": "1.0.0"
+    },
+    {
       "id": "joesspecialskins",
       "name": "Joe's Special Skin(s)",
       "author": "Joegamer50789",
@@ -307,7 +353,7 @@
       "name": "Keyboard & Mouse UI",
       "author": "SuperCatElvis",
       "description": "A full keyboard and mouse UI replacement for Minecraft: Legacy Console Edition on PC.\n\nUnlike the original Xbox 360 and PS3 versions, where the interface was built entirely around a controller. The PC version introduces a number of inconsistencies. Many actions that were originally mapped to a single controller button are split across multiple keys, which can cause incorrect icons.\n\nThis mod aims to restore consistency by replacing controller prompts with accurate keyboard and mouse inputs, using the most commonly used key for each controller action.",
-      "extended_description": "# DO NOT USE ON NEOLEGACY",
+      "extended_description": "# DO NOT USE ON NEOLEGACY\n# Original Keyboard tooltips made by NicSonic-_-.",
       "category": [
         "Mod"
       ],
@@ -329,6 +375,23 @@
       "thumbnail": "InShot_20260427_153159260.jpg",
       "zips": {
         "lce_flatgrass.zip": "{GameHDD}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "mario-textures-skins",
+      "name": "Mario Textures & Skins",
+      "author": "useless-zombie",
+      "description": "Adds the Mario texture pack and skins. The skins were made by dydymiku.",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "Texture",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "Mario.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
@@ -407,6 +470,22 @@
       "thumbnail": "PlayStation.png",
       "zips": {
         "PS3.zip": "Common/Media"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "replastic-texture-pack",
+      "name": "Replastic Tetxure Pack",
+      "author": "EnchantedDragons7",
+      "description": "A brightly colored, simple texture pack with chocolate block highlighting and simple icons.\n\nUpdated by FrizyDragon",
+      "extended_description": "",
+      "category": [
+        "Texture",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "RePlastic Texture Pack.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
@@ -584,6 +663,23 @@
       "version": "1.0.0"
     },
     {
+      "id": "texturepacktemplate",
+      "name": "TexturePack Template",
+      "author": "cheapmanga",
+      "description": "Minecraft LCE template and a detailed guide for texture-pack making. This template was made by CheapManga and Gamer99",
+      "extended_description": "",
+      "category": [
+        "Mod",
+        "DLC",
+        "Texture"
+      ],
+      "thumbnail": "563178726-903d83e5-d2be-414a-acf1-20cda2a8f89d.png",
+      "zips": {
+        "TexturePack.Template.v5.zip": "{DLCDir}"
+      },
+      "version": "5.0.0"
+    },
+    {
       "id": "thevoid",
       "name": "The Void",
       "author": "neoapps-dev",
@@ -613,6 +709,22 @@
         "AriTouhouSkins.zip": "{DLCDir}"
       },
       "version": "1.0.0"
+    },
+    {
+      "id": "tu12tutorial",
+      "name": "TU14 Tutorial DLC",
+      "author": "neoapps-dev",
+      "description": "DLCified TU14 tutorial world for neoLegacy",
+      "extended_description": "",
+      "category": [
+        "DLC",
+        "World"
+      ],
+      "thumbnail": "TU12.png",
+      "zips": {
+        "0000TU12Tutorial.zip": "{DLCDir}"
+      },
+      "version": "14.0.0"
     },
     {
       "id": "vintage-lce",

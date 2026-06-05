@@ -1,0 +1,16 @@
+{
+  "id": "tu12tutorial",
+  "name": "TU14 Tutorial DLC",
+  "author": "neoapps-dev",
+  "description": "DLCified TU14 tutorial world for neoLegacy",
+  "extended_description": "",
+  "category": [
+    "DLC",
+    "World"
+  ],
+  "thumbnail": "TU12.png", // yeah no i aint changin file names
+  "zips": {
+    "0000TU12Tutorial.zip": "{DLCDir}"
+  },
+  "version": "14.0.0"
+}

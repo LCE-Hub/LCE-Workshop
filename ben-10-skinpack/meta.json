@@ -1,0 +1,16 @@
+{
+  "id": "ben-10-skinpack",
+  "name": "Ben 10 Skinpack",
+  "author": "loganpcollins2010-lab",
+  "description": "It started when an alien device did what it did, and now you can play as the wielder of that device, and his original 10 transformations!",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "ben 10 pack.png",
+  "zips": {
+    "Ben 10 Skinpack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}

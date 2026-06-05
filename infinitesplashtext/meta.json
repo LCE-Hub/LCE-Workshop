@@ -1,0 +1,15 @@
+{
+  "id": "infinitesplashtext",
+  "name": "Infinite Splash Text!",
+  "author": "LCEGuys",
+  "description": "a community project thats updated regularly!",
+  "extended_description": "",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "InShot_20260531_094957184.jpg",
+  "zips": {
+    "splashes.zip": "Common/Media/MediaWindows64"
+  },
+  "version": "1.0.0"
+}
