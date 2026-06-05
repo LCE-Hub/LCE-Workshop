@@ -5,12 +5,11 @@
   "description": "The classic Skyblock map!",
   "extended_description": "",
   "category": [
-    "World",
-    "DLC"
+    "World"
   ],
   "thumbnail": "sb-download-2.1.jpeg",
   "zips": {
-    "Skyblock-2.1.zip": "{DLCDir}"
+    "Skyblock-2.1.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
