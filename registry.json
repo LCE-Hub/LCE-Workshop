@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T01:31:30.170Z",
-  "count": 48,
+  "generated_at": "2026-06-05T13:17:42.639Z",
+  "count": 49,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -234,6 +234,22 @@
       "thumbnail": "Untitled.jpg",
       "zips": {
         "Edmund Pack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "f8thful",
+      "name": "F8thful",
+      "author": "useless-zombie",
+      "description": "F8thful is a vanilla friendly resource pack where every texture has been recreated in 8x8!",
+      "extended_description": "",
+      "category": [
+        "Texture",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "F8thful.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
