@@ -1,0 +1,13 @@
+{
+  "id": "f8thful", 
+  "name": "F8thful", 
+  "author": "useless-zombie", 
+  "description": "F8thful is a vanilla friendly resource pack where every texture has been recreated in 8x8!", 
+  "extended_description": "", 
+  "category": ["Texture", "DLC"], 
+  "thumbnail": "thumbnail.png", 
+  "zips": { 
+    "F8thful.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
