@@ -1,0 +1,16 @@
+{
+  "id": "fabulous-beasts-skin-pack",
+  "name": "Fabulous Beasts Skin Pack",
+  "author": "ununsedgameroblox-coder",
+  "description": "Fabulous Beasts was a skin pack in the Legacy Console Editions of Minecraft.\n\n(Sorry again.)",
+  "extended_description": "",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "26-06-06-SkinFB.png",
+  "zips": {
+    "fabulous-beasts-skin-pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
