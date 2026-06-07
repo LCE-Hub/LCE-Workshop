@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T13:20:07.901Z",
+  "generated_at": "2026-06-07T13:40:32.713Z",
   "count": 50,
   "packages": [
     {
@@ -319,18 +319,19 @@
     },
     {
       "id": "infinitesplashtext",
-      "name": "Infinite Splash Text!",
+      "name": "Infinite Splash Text",
       "author": "LCEGuys",
-      "description": "a community project thats updated regularly!",
+      "description": "Expanded splash text for Minecraft Legacy Edition, Splashes are written by the community, to submit a splash look for the LCE GUYS discord, or ping Tofou/Dllie in LCE HUB",
       "extended_description": "",
       "category": [
+        "Skin",
         "Mod"
       ],
       "thumbnail": "InShot_20260531_094957184.jpg",
       "zips": {
-        "splashes.zip": "Common/Media/MediaWindows64"
+        "splashes (2).zip": "Common/Media/MediaWindows64"
       },
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "id": "joesspecialskins",
