@@ -1,0 +1,15 @@
+{
+  "id": "dantdms-lab",
+  "name": "Shoopydoops",
+  "author": "mannyfresh01272008-eng",
+  "description": "Dr Trayaurus' Lab from the Dantdm mod adventures, with the treasure room included, plus a couple of additions for you to find. This was made in neolegacy so use that.",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "2026-06-07_18.56.18 (1).jpg",
+  "zips": {
+    "20260522223637.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
