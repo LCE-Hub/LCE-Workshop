@@ -1,0 +1,15 @@
+{
+  "id": "dantdms-lab",
+  "name": "Dr Trayaurus' Lab",
+  "author": "mannyfresh01272008-eng",
+  "description": "This is a recreation, with some additions of Dr Trayaurus' lab from Dantdm's Mod Adventures, hope you enjoy. This map was made with Neolegacy so use that.",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "2026-06-07_18.56.18 (1).jpg",
+  "zips": {
+    "20260522223637.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
