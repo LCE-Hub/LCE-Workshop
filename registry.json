@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T06:33:11.720Z",
-  "count": 51,
+  "generated_at": "2026-06-12T06:33:48.876Z",
+  "count": 52,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -265,6 +265,22 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "F8thful.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "fabulous-beasts-skin-pack",
+      "name": "Fabulous Beasts Skin Pack",
+      "author": "ununsedgameroblox-coder",
+      "description": "Fabulous Beasts was a skin pack in the Legacy Console Editions of Minecraft.\n\n(Sorry again.)",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "26-06-06-SkinFB.png",
+      "zips": {
+        "fabulous-beasts-skin-pack.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
