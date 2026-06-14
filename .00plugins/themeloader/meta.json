@@ -1,0 +1,11 @@
+{
+  "id": "themeloader",
+  "name": "ThemeLoader",
+  "version": "1.0.0",
+  "author": "neoapps",
+  "description": "Theme loader and manager for Emerald Launcher",
+  "extended_description": "# THE OFFICIAL THEMELOADER FOR EMERALD LAUNCHER",
+  "main": "main.js",
+  "permissions": ["storage:plugin", "hooks:app:ready"],
+  "files": []
+}
