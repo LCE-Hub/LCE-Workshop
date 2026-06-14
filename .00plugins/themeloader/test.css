@@ -1,0 +1,11 @@
+* {
+  font-family: Comic Sans MS,Comic Sans, cursive !important;
+  animation: spin 2s linear infinite
+}
+body {
+  transform-origin: center;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg) }
+}
