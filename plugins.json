@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T15:57:52.634Z",
-  "count": 1,
+  "generated_at": "2026-06-14T16:30:35.334Z",
+  "count": 2,
   "pluginlist": [
     {
       "id": "multiplayer-button",
@@ -11,6 +11,20 @@
       "extended_description": "",
       "main": "main.js",
       "permissions": [],
+      "files": []
+    },
+    {
+      "id": "themeloader",
+      "name": "ThemeLoader",
+      "version": "1.0.0",
+      "author": "neoapps",
+      "description": "Theme loader and manager for Emerald Launcher",
+      "extended_description": "# THE OFFICIAL THEMELOADER FOR EMERALD LAUNCHER",
+      "main": "main.js",
+      "permissions": [
+        "storage:plugin",
+        "hooks:app:ready"
+      ],
       "files": []
     }
   ]
