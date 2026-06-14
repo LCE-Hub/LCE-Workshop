@@ -6,5 +6,6 @@
   "description": "Adds a Multiplayer button to the home menu that opens LCELive.",
   "extended_description": "",
   "main": "main.js",
-  "permissions": []
+  "permissions": [],
+  "files": [] //neo: file list other than `main`
 }
