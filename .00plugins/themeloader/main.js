@@ -22,12 +22,15 @@
   function inject(url) {
     var id = linkId(url);
     if (document.getElementById(id)) return;
-    var link = document.createElement("link");
-    link.rel = "stylesheet";
-    link.href = url;
-    link.id = id;
-    link.setAttribute(ATTR, "");
-    document.head.appendChild(link);
+    fetch(url).then(function (r) { return r.text(); }).then(function (css) {
+      var el = document.getElementById(id);
+      if (el) return;
+      var style = document.createElement("style");
+      style.id = id;
+      style.setAttribute(ATTR, "");
+      style.textContent = css;
+      document.head.appendChild(style);
+    }).catch(function () {});
   }
 
   function eject(url) {
@@ -36,7 +39,7 @@
   }
 
   function apply() {
-    var els = document.querySelectorAll("link[" + ATTR + "]");
+    var els = document.querySelectorAll("style[" + ATTR + "]");
     for (var i = els.length - 1; i >= 0; i--) els[i].remove();
     var themes = load();
     for (var i = 0; i < themes.length; i++) {
