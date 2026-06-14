@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add registry.json versions.json
-          git diff --cached --quiet || git commit -m "chore: regenerate registry.json and versions.json"
+          git add registry.json versions.json plugins.json
+          git diff --cached --quiet || git commit -m "chore: regenerate registry.json, versions.json and plugins.json"
           git push
