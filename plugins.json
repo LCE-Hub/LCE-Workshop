@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T15:15:50.747Z",
+  "generated_at": "2026-06-14T15:57:52.634Z",
   "count": 1,
   "pluginlist": [
     {
@@ -10,7 +10,8 @@
       "description": "Adds a Multiplayer button to the home menu that opens LCELive.",
       "extended_description": "",
       "main": "main.js",
-      "permissions": []
+      "permissions": [],
+      "files": []
     }
   ]
 }
