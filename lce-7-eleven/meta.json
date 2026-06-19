@@ -1,0 +1,15 @@
+{
+  "id": "lce-7-eleven",
+  "name": "LCE_7ELEVEN",
+  "author": "mypasswordis12345lol",
+  "description": "Based on Garrys mod gm_7eleven.",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "image_2026-06-19_134213539.png",
+  "zips": {
+    "7eleven.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
