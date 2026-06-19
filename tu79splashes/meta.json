@@ -1,0 +1,15 @@
+{
+  "id": "tu79splashes",
+  "name": "TU79 Splash Text!",
+  "author": "LCEGuys",
+  "description": "Re-adds the Splash Text From TU79! (Kept the Notch Splashes!)",
+  "extended_description": "",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "InShot_20260619_123948140.gif",
+  "zips": {
+    "TU79 Splashes.zip": "Common\\Media\\MediaWindows64"
+  },
+  "version": "1.0.0"
+}
