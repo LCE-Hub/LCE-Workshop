@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T15:22:28.244Z",
-  "count": 52,
+  "generated_at": "2026-06-19T19:18:00.230Z",
+  "count": 53,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -787,6 +787,21 @@
         "0000TU12Tutorial.zip": "{DLCDir}"
       },
       "version": "14.0.0"
+    },
+    {
+      "id": "tu91splashes",
+      "name": "TU91/1.91 Splash Text!",
+      "author": "LCEGuys",
+      "description": "Re-Adds the Splash Text from PS4 Edition! (Kept the Notch Splashes!)",
+      "extended_description": "",
+      "category": [
+        "Mod"
+      ],
+      "thumbnail": "InShot_20260619_135441316.gif",
+      "zips": {
+        "TU91 Splashes.zip": "Common/Media/MediaWindows64"
+      },
+      "version": "1.0.0"
     },
     {
       "id": "vintage-lce",
