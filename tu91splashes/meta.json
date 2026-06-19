@@ -1,0 +1,15 @@
+{
+  "id": "tu91splashes",
+  "name": "TU91/1.91 Splash Text!",
+  "author": "LCEGuys",
+  "description": "Re-Adds the Splash Text from PS4 Edition! (Kept the Notch Splashes!)",
+  "extended_description": "",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "InShot_20260619_135441316.gif",
+  "zips": {
+    "TU91 Splashes.zip": "Common\\Media\\MediaWindows64"
+  },
+  "version": "1.0.0"
+}
