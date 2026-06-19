@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T16:30:35.333Z",
+  "generated_at": "2026-06-19T15:22:28.244Z",
   "count": 52,
   "packages": [
     {
@@ -352,16 +352,16 @@
       "id": "infinitesplashtext",
       "name": "Infinite Splash Text!",
       "author": "LCEGuys",
-      "description": "Expanded Splash Text for Minecraft Legacy Edition, made by the community for the community!\n\nLook for the LCE Guys Discord to suggest a Splash Text!",
+      "description": "1216 Community Made Splashes! 384 Official Splashes!\n-\nMade by the community! look for the LCE Guys discord to suggest a splash text!",
       "extended_description": "",
       "category": [
         "Mod"
       ],
       "thumbnail": "InShot_20260531_094957184.jpg",
       "zips": {
-        "splashes (3).zip": "Common/Media/MediaWindows64"
+        "splashes (4).zip": "Common/Media/MediaWindows64"
       },
-      "version": "1.0.2"
+      "version": "1.0.3"
     },
     {
       "id": "joesspecialskins",
