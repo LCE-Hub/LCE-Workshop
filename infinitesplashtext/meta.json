@@ -5,11 +5,11 @@
   "description": "1216 Community Made Splashes! 384 Official Splashes!\n-\nMade by the community! look for the LCE Guys discord to suggest a splash text!",
   "extended_description": "",
   "category": [
-    "Skin"
+    "Mod"
   ],
   "thumbnail": "InShot_20260531_094957184.jpg",
   "zips": {
-    "splashes (4).zip": "Common\\Media\\MediaWindows64!"
+    "splashes (4).zip": "Common/Media/MediaWindows64"
   },
   "version": "1.0.3"
 }
