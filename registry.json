@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T15:46:02.795Z",
-  "count": 54,
+  "generated_at": "2026-06-20T15:47:38.325Z",
+  "count": 55,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -407,6 +407,21 @@
       "thumbnail": "PC 2.png",
       "zips": {
         "PC.zip": "Common/Media"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "lce-7-eleven",
+      "name": "LCE_7ELEVEN",
+      "author": "mypasswordis12345lol",
+      "description": "Based on Garrys mod gm_7eleven.",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "image_2026-06-19_134213539.png",
+      "zips": {
+        "7eleven.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
