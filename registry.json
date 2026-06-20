@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T19:18:00.230Z",
-  "count": 53,
+  "generated_at": "2026-06-20T15:46:02.795Z",
+  "count": 54,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -705,6 +705,22 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "tadc.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "tadcpack",
+      "name": "The amazing digital circus skinpack",
+      "author": "Cracked_Egg",
+      "description": "A Tadc skinpack",
+      "extended_description": "To celebrate the finale of the amazing digital circus having its final release on youtube and netflix, i made this pack in a day. It has every main character from the show, Pomni, Jax, Ragatha, Zooble, Gangle, Kinger and Caine. Along with the three (now absracted) characters shown in flashbacks, Queenie, Kaufmo and ribbit. Enjoy!",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "tadc pack.png",
+      "zips": {
+        "The Amazing Digital Circus Skinpack.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
