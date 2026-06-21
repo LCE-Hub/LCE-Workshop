@@ -1,0 +1,15 @@
+{
+  "id": "references-splashes",
+  "name": "Internet References Splash Pack",
+  "author": "mypasswordis12345lol",
+  "description": "Adds splash texts that reference various online memes or games",
+  "extended_description": "",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "moremoremore.gif",
+  "zips": {
+    "referencessplashes.zip": "Common/Media/MediaWindows64"
+  },
+  "version": "1.0.0"
+}
