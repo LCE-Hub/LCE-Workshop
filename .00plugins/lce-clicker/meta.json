@@ -1,0 +1,10 @@
+{
+  "id": "lce-clicker",
+  "name": "LCE Clicker",
+  "version": "1.0.0",
+  "author": "mypasswordis12345lol",
+  "description": "A Cookie Clicker type mod for the Emerald Launcher",
+  "extended_description": "Adds a LCE Clicker button in the settings.",
+  "main": "main.js",
+  "permissions": []
+}
