@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T16:41:31.760Z",
+  "generated_at": "2026-06-22T16:44:11.434Z",
   "count": 3,
   "pluginlist": [
     {
       "id": "lce-clicker",
       "name": "LCE Clicker",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "mypasswordis12345lol",
       "description": "A Cookie Clicker type mod for the Emerald Launcher",
       "extended_description": "Adds a LCE Clicker button in the settings.",
