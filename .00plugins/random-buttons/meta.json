@@ -1,0 +1,10 @@
+{
+  "id": "random-buttons",
+  "name": "Random Button Names",
+  "version": "1.0.0",
+  "author": "mypasswordis12345lol",
+  "description": "Randomizes button names.",
+  "extended_description": "",
+  "main": "main.js",
+  "permissions": []
+}
