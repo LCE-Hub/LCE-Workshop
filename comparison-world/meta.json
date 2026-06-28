@@ -1,0 +1,15 @@
+{
+  "id": "comparison-world",
+  "name": "Comparison World",
+  "author": "mypasswordis12345lol",
+  "description": "A world for making the comparison.png file for your texture packs.",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "image_2026-06-26_141658544.png",
+  "zips": {
+    "comparison-world.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
