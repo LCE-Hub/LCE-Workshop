@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T16:29:36.200Z",
-  "count": 56,
+  "generated_at": "2026-06-28T10:19:18.678Z",
+  "count": 57,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -142,6 +142,21 @@
       "thumbnail": "shipmentfunny.jpg",
       "zips": {
         "cod4shipment.zip": "{GameHDD}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "comparison-world",
+      "name": "Comparison World",
+      "author": "mypasswordis12345lol",
+      "description": "A world for making the comparison.png file for your texture packs.",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "image_2026-06-26_141658544.png",
+      "zips": {
+        "comparison-world.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
