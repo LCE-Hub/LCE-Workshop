@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T11:36:30.395Z",
+  "generated_at": "2026-07-04T20:30:37.526Z",
   "count": 58,
   "packages": [
     {
@@ -367,16 +367,16 @@
       "id": "infinitesplashtext",
       "name": "Infinite Splash Text!",
       "author": "LCEGuys",
-      "description": "1216 Community Made Splashes! 384 Official Splashes!\n-\nMade by the community! look for the LCE Guys discord to suggest a splash text!",
+      "description": "Splashes made by the community for the community!",
       "extended_description": "",
       "category": [
         "Mod"
       ],
       "thumbnail": "InShot_20260531_094957184.jpg",
       "zips": {
-        "splashes (4).zip": "Common/Media/MediaWindows64"
+        "splashes (5).zip": "Common/Media/MediaWindows64"
       },
-      "version": "1.0.3"
+      "version": "1.0.4"
     },
     {
       "id": "joesspecialskins",
