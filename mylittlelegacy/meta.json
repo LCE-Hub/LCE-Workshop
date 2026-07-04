@@ -1,0 +1,15 @@
+{
+  "id": "mylittlelegacy",
+  "name": "My Little Legacy",
+  "author": "neoapps-dev",
+  "description": "A skin pack that aims to provide an adaptation of the models and textures from the mod: https://minelittlepony-mod.com/ All credits for the original model and texture belong to them; I only adapted the textures and recreated the models to be played in LCE.",
+  "extended_description": "",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "aq_TJ4WHoE_BrPg2Rr_b23yIYU.png",
+  "zips": {
+    "My Little Legacy.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
