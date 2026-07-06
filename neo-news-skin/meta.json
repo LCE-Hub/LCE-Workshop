@@ -1,0 +1,15 @@
+{
+  "id": "neo-news-skin",
+  "name": "neoLegacy News Guy",
+  "author": "SailsYT",
+  "description": "If you want to impersonate the host of neoLegacy News, now you can! created by dydyMiku, published by Sails!",
+  "extended_description": "",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "thumbv2.png",
+  "zips": {
+    "SailsCameraSkin.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
