@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T20:30:37.526Z",
-  "count": 58,
+  "generated_at": "2026-07-06T16:50:02.873Z",
+  "count": 59,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -515,6 +515,21 @@
       "thumbnail": "aq_TJ4WHoE_BrPg2Rr_b23yIYU.png",
       "zips": {
         "My Little Legacy.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "neo-news-skin",
+      "name": "neoLegacy News Guy",
+      "author": "SailsYT",
+      "description": "If you want to impersonate the host of neoLegacy News, now you can! created by dydyMiku, published by Sails!",
+      "extended_description": "",
+      "category": [
+        "Skin"
+      ],
+      "thumbnail": "thumbv2.png",
+      "zips": {
+        "SailsCameraSkin.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
