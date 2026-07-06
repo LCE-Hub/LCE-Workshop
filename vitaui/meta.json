@@ -1,0 +1,15 @@
+{
+  "id": "vitaui",
+  "name": "Vita UI",
+  "author": "Coolguyiscoolyes",
+  "description": "This is mod changes the ui tooltips to the vita ones",
+  "extended_description": "",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "image (5) (1).png",
+  "zips": {
+    "MediaWindows64.zip": "Common/Media"
+  },
+  "version": "1.0.0"
+}
