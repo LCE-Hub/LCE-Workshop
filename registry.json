@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T16:50:02.873Z",
-  "count": 59,
+  "generated_at": "2026-07-07T13:28:09.527Z",
+  "count": 60,
   "packages": [
     {
       "id": "2010s-indie-horror",
@@ -907,6 +907,21 @@
       "thumbnail": "69a79ada89d9d957cccd1b57db6705e5788236aa_0.png",
       "zips": {
         "VintageLCE.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "vitaui",
+      "name": "Vita UI",
+      "author": "Coolguyiscoolyes",
+      "description": "This is mod changes the ui tooltips to the vita ones",
+      "extended_description": "# DO NOT USE ON NEOLEGACY",
+      "category": [
+        "Mod"
+      ],
+      "thumbnail": "image (5) (1).png",
+      "zips": {
+        "MediaWindows64.zip": "Common/Media"
       },
       "version": "1.0.0"
     },
