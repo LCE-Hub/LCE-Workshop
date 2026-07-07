@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T19:10:58.752Z",
+  "generated_at": "2026-07-07T19:11:32.243Z",
   "count": 60,
   "packages": [
     {
@@ -578,7 +578,12 @@
       "zips": {
         "PS3.zip": "Common/Media"
       },
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "required_versions": [
+        "revelations",
+        "minecraftconsoles",
+        "360revived"
+      ]
     },
     {
       "id": "references-splashes",
