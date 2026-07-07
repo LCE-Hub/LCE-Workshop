@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T19:11:32.243Z",
+  "generated_at": "2026-07-07T19:11:53.336Z",
   "count": 60,
   "packages": [
     {
@@ -423,7 +423,12 @@
       "zips": {
         "PC.zip": "Common/Media"
       },
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "required_versions": [
+        "revelations",
+        "minecraftconsoles",
+        "360revived"
+      ]
     },
     {
       "id": "lce-7-eleven",
