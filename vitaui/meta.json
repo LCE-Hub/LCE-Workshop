@@ -11,5 +11,6 @@
   "zips": {
     "MediaWindows64.zip": "Common/Media"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "required_versions": ["revelations", "minecraftconsoles", "360revived"]
 }
