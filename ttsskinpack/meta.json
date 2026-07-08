@@ -14,6 +14,6 @@
   },
   "version": "1.0.0",
   "required_versions": [
-    "revelations"
+    "revelations", "minecraftconsoles", "test", "360revived", "legacy_nether_fork"
   ]
 }
