@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:05:46.201Z",
+  "generated_at": "2026-07-08T15:07:54.752Z",
   "count": 62,
   "packages": [
     {
@@ -908,7 +908,11 @@
       },
       "version": "1.0.0",
       "required_versions": [
-        "revelations"
+        "revelations",
+        "minecraftconsoles",
+        "test",
+        "360revived",
+        "legacy_nether_fork"
       ]
     },
     {
