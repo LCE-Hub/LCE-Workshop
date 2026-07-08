@@ -1,0 +1,19 @@
+{
+  "id": "ttsskinpack",
+  "name": "The Truman show Skin pack",
+  "author": "nookneedsethno-hub",
+  "description": "Skin pack The Truman Show Volume I (The II skin pack is on progress)",
+  "extended_description": "The Truman Show is a 1998 American comedy-drama film directed by Peter Weir, written and co-produced by Andrew Niccol. Starring Jim Carrey as Truman Burbank, a man who is unaware that he is living his entire life on a colossal soundstage, and that it is being filmed and broadcast as a reality television show that has a huge international following. All of his friends, family, and members of his community are paid actors whose job is to sustain the illusion and keep Truman unaware that the world he inhabits is scripted and fake.",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "Captura de pantalla 2026-07-08 085335.png",
+  "zips": {
+    "TTS SKIN PACK.zip": "{DLCDir}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "revelations"
+  ]
+}
