@@ -1,0 +1,19 @@
+{
+  "id": "1-20-skin",
+  "name": "1.20 Skin Pack",
+  "author": "SineDarkOfc",
+  "description": "It's the 1.20 new default skins in legacy",
+  "extended_description": "So... A while ago I started doing a skin pack with the new default skins from minecraft to lce, with thanks to the newest neo legacys version, it's finally done(problably i'll put both slim and wide models for all the skins, but for now, enjoy this version",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "image(1).png",
+  "zips": {
+    "1.20 Skin.zip": "{DLCDir}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "legacy_evolved"
+  ]
+}
