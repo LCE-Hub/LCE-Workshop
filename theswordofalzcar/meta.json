@@ -1,0 +1,15 @@
+{
+  "id": "theswordofalzcar",
+  "name": "The Sword of Alzcar",
+  "author": "neoapps-dev",
+  "description": "Challenge / Adventure Map Jan 30th, 2014",
+  "extended_description": "Creators of the map\n\n-Slix Killer\n\n-TheErxinator\n\n-ClevelandCavs1\n\n-hockeyal5\n\n-CentrinoUltra\n\n-Heat2179\n\nThis map was created on PC by the oxkillerox team and was then converted and finished on Xbox.\n\nRULES:\n\n1-MUST play on peaceful\n\n2-No breaking blocks\n\n3-Sand is used as money\n\n4-Stay on the paths/do not climb out of map\n\n5-Feel free to record a lets play of this map\n\nOriginal Xbox360 Map (.bin) download- https://www.planetminecraft.com/project/the-sword-of-alzcar/\n\nConverted to LCE with Console2Lce",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "2026-07-09_14.25.09.png",
+  "zips": {
+    "The_Sword_of_Alzcar.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
