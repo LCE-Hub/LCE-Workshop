@@ -1,0 +1,15 @@
+{
+  "id": "moddedcity",
+  "name": "Eldridge Kingdom",
+  "author": "neoapps-dev",
+  "description": "Eldridge Kingdom (2012 custom legacy world)",
+  "extended_description": "Ported onto Xbox 360 when custom worlds were rare, ported with Horizon and downloaded from MCPEDL.\n\nmade by Avazi, original link seems to be gone.",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "2026-07-09_14.21.42.png",
+  "zips": {
+    "Modded_City_1_N1ZTqxu.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
