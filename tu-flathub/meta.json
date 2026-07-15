@@ -1,0 +1,18 @@
+{
+  "id": "tu-flathub",
+  "name": "TU flathub tutorial",
+  "author": "zapamitany123",
+  "description": "Small hub that is perfect start for survival surounded by flat world and structures!",
+  "extended_description": "I put my heart into this map and I plan to update it again sometime to add more things but for now just enjoy!",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "Zrzut ekranu 2026-07-15 113555.png",
+  "zips": {
+    "zip.zip": "{GameHDD}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "legacy_evolved"
+  ]
+}
