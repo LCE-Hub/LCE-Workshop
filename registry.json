@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T17:06:29.636Z",
-  "count": 66,
+  "generated_at": "2026-07-15T17:09:26.440Z",
+  "count": 67,
   "packages": [
     {
       "id": "1-20-skin",
@@ -161,6 +161,22 @@
       "thumbnail": "2026-07-09_14.16.06.png",
       "zips": {
         "City_of_Ruins_V2.zip": "{GameHDD}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "classic-youtubers",
+      "name": "Classic Youtubers Skins",
+      "author": "Raylen124",
+      "description": "I just made this pack of some Minecraft youtubers i used to watch",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "4a5a028ec4d3b11a2470a6ce192ba7a2.jpg",
+      "zips": {
+        "The Classic Youtubers.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
