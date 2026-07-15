@@ -1,0 +1,15 @@
+{
+  "id": "classic-youtubers",
+  "name": "Classic Youtubers Skins",
+  "author": "Raylen124",
+  "description": "I just made this pack of some Minecraft youtubers i used to watch",
+  "extended_description": "",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "4a5a028ec4d3b11a2470a6ce192ba7a2.jpg",
+  "zips": {
+    "The Classic Youtubers.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
