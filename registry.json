@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T00:54:04.177Z",
-  "count": 69,
+  "generated_at": "2026-07-16T20:28:56.316Z",
+  "count": 70,
   "packages": [
     {
       "id": "1-20-skin",
@@ -115,6 +115,21 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "blockspack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "blue-redstone",
+      "name": "Blue Redstone",
+      "author": "wassupiamYusuf",
+      "description": "Makes redstone blue. Bluestone.",
+      "extended_description": "Changes redstone to be blue, including the rails, items, the ore and redstone dust.\nevil redstone dust oo oooo",
+      "category": [
+        "Texture"
+      ],
+      "thumbnail": "bluıe.png",
+      "zips": {
+        "LCE Blue Redstone.zip": "Common/res/TitleUpdate/res"
       },
       "version": "1.0.0"
     },
