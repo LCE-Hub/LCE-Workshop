@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T20:28:56.316Z",
+  "generated_at": "2026-07-16T21:17:15.984Z",
   "count": 70,
   "packages": [
     {
@@ -445,18 +445,21 @@
     },
     {
       "id": "infinitesplashtext",
-      "name": "Infinite Splash Text!",
+      "name": "Infinite Splash Text",
       "author": "LCEGuys",
       "description": "Splashes made by the community for the community!",
-      "extended_description": "",
+      "extended_description": "1672 Community Splashes - 384 Official Splashes!",
       "category": [
         "Mod"
       ],
       "thumbnail": "InShot_20260531_094957184.jpg",
       "zips": {
-        "splashes (5).zip": "Common/Media/MediaWindows64"
+        "splashes (6).zip": "Common/Media/MediaWindows64"
       },
-      "version": "1.0.4"
+      "version": "1.0.5",
+      "required_versions": [
+        "legacy_evolved"
+      ]
     },
     {
       "id": "joesspecialskins",
