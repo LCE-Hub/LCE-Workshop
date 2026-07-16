@@ -1,0 +1,15 @@
+{
+  "id": "blue-redstone",
+  "name": "Blue Redstone",
+  "author": "wassupiamYusuf",
+  "description": "Makes redstone blue. Bluestone.",
+  "extended_description": "Changes redstone to be blue, including the rails, items, the ore and redstone dust.\nevil redstone dust oo oooo",
+  "category": [
+    "Texture"
+  ],
+  "thumbnail": "bluıe.png",
+  "zips": {
+    "LCE Blue Redstone.zip": "Common/res/TitleUpdate/res"
+  },
+  "version": "1.0.0"
+}
