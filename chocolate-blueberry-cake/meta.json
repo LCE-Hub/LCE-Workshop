@@ -1,0 +1,15 @@
+{
+  "id": "chocolate-blueberry-cake",
+  "name": "Chocolate Blueberry Cake",
+  "author": "wassupiamYusuf",
+  "description": "Changes the cake to be a chocolate blueberry cake.",
+  "extended_description": "Changes the cake to be a chocolate cake while also replacing the red strawberry parts of the cake with blue blueberries.",
+  "category": [
+    "Texture"
+  ],
+  "thumbnail": "a.png",
+  "zips": {
+    "LCE Chocolate Cake TexturePack.zip": "Common/res/TitleUpdate/res"
+  },
+  "version": "1.0.0"
+}
