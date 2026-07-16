@@ -1,0 +1,18 @@
+{
+  "id": "spacestationv1",
+  "name": "Space Station V1 for Minecraft Moon Edition",
+  "author": "LCEGuys",
+  "description": "By shoomoo17",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "InShot_20260711_195506200.jpg",
+  "zips": {
+    "Space Station V1 by shoomoo17.zip": "{GameHDD}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "moon_edition"
+  ]
+}
