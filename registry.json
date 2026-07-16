@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T17:09:26.440Z",
-  "count": 67,
+  "generated_at": "2026-07-16T00:34:49.623Z",
+  "count": 68,
   "packages": [
     {
       "id": "1-20-skin",
@@ -146,6 +146,21 @@
       "thumbnail": "CandyLand2.png",
       "zips": {
         "Candy Land HG.zip": "{GameHDD}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "chocolate-blueberry-cake",
+      "name": "Chocolate Blueberry Cake",
+      "author": "wassupiamYusuf",
+      "description": "Changes the cake to be a chocolate blueberry cake.",
+      "extended_description": "Changes the cake to be a chocolate cake while also replacing the red strawberry parts of the cake with blue blueberries.",
+      "category": [
+        "Texture"
+      ],
+      "thumbnail": "a.png",
+      "zips": {
+        "LCE Chocolate Cake TexturePack.zip": "Common/res/TitleUpdate/res"
       },
       "version": "1.0.0"
     },
