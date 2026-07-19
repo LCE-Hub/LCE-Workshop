@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T21:17:15.984Z",
-  "count": 70,
+  "generated_at": "2026-07-19T14:07:20.320Z",
+  "count": 71,
   "packages": [
     {
       "id": "1-20-skin",
@@ -718,6 +718,24 @@
         "RePlastic Texture Pack.zip": "{DLCDir}"
       },
       "version": "1.0.0"
+    },
+    {
+      "id": "sails-worlds",
+      "name": "Sails' World",
+      "author": "SailsYT",
+      "description": "this is a world created by sailsYT (me), i will be updating this every so often, some stuff is incomplete >.<",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "Screenshot (97).png",
+      "zips": {
+        "SailsWorld.zip": "{GameHDD}"
+      },
+      "version": "1.0.0",
+      "required_versions": [
+        "legacy_evolved"
+      ]
     },
     {
       "id": "skinpack",
