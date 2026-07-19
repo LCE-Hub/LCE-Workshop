@@ -1,0 +1,18 @@
+{
+  "id": "sails-worlds",
+  "name": "Sails' World",
+  "author": "SailsYT",
+  "description": "this is a world created by sailsYT (me), i will be updating this every so often, some stuff is incomplete >.<",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "Screenshot (97).png",
+  "zips": {
+    "SailsWorld.zip": "{DLCDir}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "legacy_evolved"
+  ]
+}
