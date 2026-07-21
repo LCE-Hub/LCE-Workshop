@@ -9,9 +9,9 @@
   ],
   "thumbnail": "Screenshot (149).png",
   "zips": {
-    "SailsWorld.zip": "{DLCDir}"
+    "SailsWorld.zip": "{GameHDD}"
   },
-  "version": "1.1",
+  "version": "1.1.0",
   "required_versions": [
     "legacy_evolved"
   ]
