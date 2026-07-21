@@ -1,0 +1,19 @@
+{
+  "id": "1-5-flathub",
+  "name": "1.5 Flathub Tutorial",
+  "author": "zapamitany123",
+  "description": "Updated fan-made tutorial world with 2 new zones. Map is surrounded by flat world and is perfect for survival series!",
+  "extended_description": "Added 2 new zones (spruce forest and desert)\nMinecart ride, ancient tomb and cozy watchtower.\n\nI put my heart into this world and I plan to update it again soon!",
+  "category": [
+    "World",
+    "DLC"
+  ],
+  "thumbnail": "Zrzut ekranu 2026-07-21 075923.png",
+  "zips": {
+    "zippy.zip": "{DLCDir}"
+  },
+  "version": "1.5",
+  "required_versions": [
+    "legacy_evolved"
+  ]
+}
