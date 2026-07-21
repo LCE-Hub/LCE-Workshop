@@ -1,0 +1,19 @@
+{
+  "id": "tu-flathub-tutorial",
+  "name": "1.5 Flathub Tutorial",
+  "author": "zapamitany123",
+  "description": "Updated tutorial like map with a lot of fun!\n\nAdded 2 new zones (spruce forest and desert)",
+  "extended_description": "Now featuring: minecart ride, desert temple and watchtower!\nI put my heart into this project and I will update it again soon.\nAlso I hid somewhere nether portal. Can you find it?",
+  "category": [
+    "World",
+    "DLC"
+  ],
+  "thumbnail": "Zrzut ekranu 2026-07-21 075923.png",
+  "zips": {
+    "zippy.zip": "{DLCDir}"
+  },
+  "version": "1.5.0",
+  "required_versions": [
+    "legacy_evolved"
+  ]
+}
