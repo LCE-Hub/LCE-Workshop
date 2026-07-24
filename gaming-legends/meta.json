@@ -1,0 +1,25 @@
+{
+  "id": "gaming-legends",
+  "name": "Gaming Legends Skin Pack",
+  "author": "rezikahany-commits",
+  "description": "If you love gaming then you are going to love this one, this skin pack includes 80 gaming characters, i will try to make this skin pack the biggest one in Minecraft Legacy Edition",
+  "extended_description": "Here is the link to the discord server, so you guys can give me skin suggestions and ideas\nhttps://discord.gg/hCPuge2y",
+  "category": [
+    "Skin",
+    "DLC"
+  ],
+  "thumbnail": "tot.png",
+  "zips": {
+    "Gaming.Legends.Skin.Pack.zip": "{DLCDir}"
+  },
+  "version": "1.0",
+  "required_versions": [
+    "revelations",
+    "legacy_evolved",
+    "360revived",
+    "test",
+    "minecraftconsoles",
+    "legacy_nether_fork",
+    "moon_edition"
+  ]
+}
