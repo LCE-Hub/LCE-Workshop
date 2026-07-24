@@ -12,14 +12,8 @@
   "zips": {
     "Gaming.Legends.Skin.Pack.zip": "{DLCDir}"
   },
-  "version": "1.0",
+  "version": "1.0.0",
   "required_versions": [
-    "revelations",
-    "legacy_evolved",
-    "360revived",
-    "legacy_nether_fork",
-    "moon_edition",
-    "minecraftconsoles",
-    "test"
+    "legacy_evolved"
   ]
 }
