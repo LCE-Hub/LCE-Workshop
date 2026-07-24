@@ -1,17 +1,17 @@
 {
   "id": "sails-worlds",
-  "name": "Sails' World",
+  "name": "Sails World",
   "author": "SailsYT",
-  "description": "My world, updated with a lot of really cool new stuff like Mario, Mega Steve, Miku, lots of redstone stuff and new secrets!",
+  "description": "a new update is here! \nadds Sonic, Tails, Teto, 2 new flush piston doors, the smallest redstone block swapper in neoLegacy. a sheep pen, and a whole castle! ",
   "extended_description": "",
   "category": [
     "World"
   ],
-  "thumbnail": "Screenshot (149).png",
+  "thumbnail": "Screenshot (206).png",
   "zips": {
     "SailsWorld.zip": "{GameHDD}"
   },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "required_versions": [
     "legacy_evolved"
   ]
