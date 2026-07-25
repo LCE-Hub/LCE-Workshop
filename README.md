@@ -46,6 +46,8 @@ Your `meta.json` must follow this structure:
 | `category` | String or String[] | Must be `Skin`, `Texture`, `World`, `Mod`, `DLC`, or multiple ones in a list. |
 | `thumbnail` | String | File name for your image (PNG/JPG/SVG/GIF) for the preview. |
 | `zips`| Object | Names of your `.zip` files to extract. |
+| `required_versions` | String[] | List of version IDs that support this content. |
+| `dependencies` | String[] | List of Workshop package IDs required by this content. |
 | `version` | String | Semantic versioning (e.g. `1.0.0`). |
 
 ## Example `meta.json` (jsonc, remove comments)
