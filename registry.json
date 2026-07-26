@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T14:42:00.118Z",
-  "count": 73,
+  "generated_at": "2026-07-26T05:01:22.261Z",
+  "count": 74,
   "packages": [
     {
       "id": "1-20-skin",
@@ -880,6 +880,21 @@
       "thumbnail": "spongebob-squarepants.png",
       "zips": {
         "Spongebob-Squarepants.zip": "{GameHDD}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "stampy-lovely-world-2000",
+      "name": "Stampy's Lovely World (2000 Subs Version)",
+      "author": "rezikahany-commits",
+      "description": "Explore Stampy's Lovely World (2000 Subs Version), the reason i added this version specifically is because the Legacy Edition PC ports can't run the newer versions.",
+      "extended_description": "",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "Screenshot 2026-07-26 03-42-23.png",
+      "zips": {
+        "Stampy's Lovely World.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
