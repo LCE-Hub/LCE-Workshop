@@ -1,0 +1,15 @@
+{
+  "id": "stampy-lovely-world-2000",
+  "name": "Stampy's Lovely World (2000 Subs Version)",
+  "author": "rezikahany-commits",
+  "description": "Explore Stampy's Lovely World (2000 Subs Version), the reason i added this version specifically is because the Legacy Edition PC ports can't run the newer versions.",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "Screenshot 2026-07-26 03-42-23.png",
+  "zips": {
+    "Stampy's Lovely World.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
