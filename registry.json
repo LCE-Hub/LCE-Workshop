@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T18:15:13.283Z",
-  "count": 75,
+  "generated_at": "2026-07-29T18:15:48.206Z",
+  "count": 76,
   "packages": [
     {
       "id": "1-20-skin",
@@ -916,6 +916,26 @@
         "Stampy's Lovely World 2000.zip": "{GameHDD}"
       },
       "version": "1.0.3",
+      "required_versions": [
+        "revelations",
+        "legacy_evolved",
+        "moon_edition"
+      ]
+    },
+    {
+      "id": "stampy-lovely-world-tu19",
+      "name": "Stampy's Lovely World (TU19 Version)",
+      "author": "rezikahany-commits",
+      "description": "Explore Stampy's Lovely World (TU19 Version), More minigames were added in this version, and more buildings, and new rooms in Stampy's Lovely House.",
+      "extended_description": "This is actually the latest version of Stampy's Lovely World that can run in the latest Minecraft Legacy Editions PC Ports, which was TU19.",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "thumbData2.png",
+      "zips": {
+        "Stampy's Lovely World TU19.zip": "{GameHDD}"
+      },
+      "version": "1.0.0",
       "required_versions": [
         "revelations",
         "legacy_evolved",
