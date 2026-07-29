@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T09:53:06.859Z",
-  "count": 74,
+  "generated_at": "2026-07-29T15:40:39.272Z",
+  "count": 75,
   "packages": [
     {
       "id": "1-20-skin",
@@ -705,6 +705,25 @@
         "revelations",
         "minecraftconsoles",
         "360revived"
+      ]
+    },
+    {
+      "id": "redv1blue",
+      "name": "Red Vs Blue Small V1",
+      "author": "LCEGuys",
+      "description": "Just a little duels map made by Dllie.\nPartially worked on by Shoomoo17",
+      "extended_description": "Just a little duels map made by Dllie.\nPartially worked on by Shoomoo17",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "2026-07-29_11.34.19.png",
+      "zips": {
+        "Red VS Blue Small V1.zip": "{GameHDD}"
+      },
+      "version": "1.0.0",
+      "required_versions": [
+        "legacy_evolved",
+        "revelations"
       ]
     },
     {
