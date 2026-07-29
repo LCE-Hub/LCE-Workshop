@@ -3,7 +3,7 @@
   "name": "Stampy's Lovely World (2000 Subs Version)",
   "author": "rezikahany-commits",
   "description": "Explore Stampy's Lovely World (2000 Subs Version), the reason i added this version specifically is because the Legacy Edition PC ports can't run the newer versions.",
-  "extended_description": "Some bugs with the map have now been fixed in the latest version.",
+  "extended_description": "Version 1.0.2 fixed some of the doors, minigames and the guest room.",
   "category": [
     "World"
   ],
@@ -11,7 +11,7 @@
   "zips": {
     "Stampy's Lovely World.zip": "{GameHDD}"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "required_versions": [
     "revelations",
     "legacy_evolved",
