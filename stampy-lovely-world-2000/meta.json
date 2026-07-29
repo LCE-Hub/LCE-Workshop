@@ -2,16 +2,16 @@
   "id": "stampy-lovely-world-2000",
   "name": "Stampy's Lovely World (2000 Subs Version)",
   "author": "rezikahany-commits",
-  "description": "Explore Stampy's Lovely World (2000 Subs Version), the reason i added this version specifically is because the Legacy Edition PC ports can't run the newer versions.",
-  "extended_description": "Version 1.0.2 fixed some of the doors, minigames and the guest room.",
+  "description": "Explore Stampy's Lovely World (2000 Subs Version), this is based on the classic Stampy's Lovely World 2000 Subs Special video, so have fun",
+  "extended_description": "Version 1.0.3 fixed the SOS Island Room.",
   "category": [
     "World"
   ],
   "thumbnail": "thumbData.png",
   "zips": {
-    "Stampy's Lovely World.zip": "{GameHDD}"
+    "Stampy's Lovely World 2000.zip": "{GameHDD}"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "required_versions": [
     "revelations",
     "legacy_evolved",
