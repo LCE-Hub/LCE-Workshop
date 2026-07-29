@@ -9,7 +9,7 @@
   ],
   "thumbnail": "2026-07-29_11.34.19.png",
   "zips": {
-    "Red VS Blue Small V1.zip": "{DLCDir}"
+    "Red VS Blue Small V1.zip": "{GameHDD}"
   },
   "version": "1.0.0",
   "required_versions": [
