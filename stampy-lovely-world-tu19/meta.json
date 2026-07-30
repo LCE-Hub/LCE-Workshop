@@ -15,6 +15,7 @@
   "required_versions": [
     "revelations",
     "legacy_evolved",
-    "moon_edition"
+    "moon_edition",
+    "legacy_nether_fork"
   ]
 }
