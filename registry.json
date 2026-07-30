@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T18:15:48.206Z",
+  "generated_at": "2026-07-30T18:52:12.731Z",
   "count": 76,
   "packages": [
     {
@@ -939,7 +939,8 @@
       "required_versions": [
         "revelations",
         "legacy_evolved",
-        "moon_edition"
+        "moon_edition",
+        "legacy_nether_fork"
       ]
     },
     {
