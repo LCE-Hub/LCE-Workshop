@@ -1,7 +1,7 @@
 {
   "id": "fateindustries-pack",
   "name": "FateIndustries Mash-Up Pack",
-  "author": "neoapps-dev",
+  "author": "FateIndustries",
   "description": "Adds my mash-up pack, comprising of the survival world me and my friends worked on, my texture pack and my 94-skin pack.",
   "extended_description": "Adds my mash-up pack, comprising of the survival world me and my friends worked on, my texture pack and my 94-skin pack.\nMy mash-up pack also replaces the bow sound effect and the achievement icon for 'The Lie', as well as the music discs '13', 'cat' and 'where are we now'. Included is a guide on how to restore these files (.txt file located in root of game install directory).",
   "category": [
@@ -12,7 +12,7 @@
   ],
   "thumbnail": "fateindustries-pack-image.png",
   "zips": {
-    "Minecraft Texture Update.zip": "PLACEHOLDER"
+    "FateIndustries Mash-Up Pack.zip": ""
   },
   "version": "1.0.0",
   "required_versions": [
