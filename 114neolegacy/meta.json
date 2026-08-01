@@ -1,0 +1,19 @@
+{
+  "id": "114neolegacy",
+  "name": "1.14+ for NeoLegacy",
+  "author": "GabrielBlast",
+  "description": "Minecraft's updated textures made to work with neo legacy, has almost all block textures and mobs",
+  "extended_description": "",
+  "category": [
+    "Texture",
+    "DLC"
+  ],
+  "thumbnail": "2026-07-30_16.23.02.png",
+  "zips": {
+    "Minecraft Texture Update.zip": "{DLCDir}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "legacy_evolved"
+  ]
+}
