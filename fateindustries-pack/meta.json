@@ -12,10 +12,13 @@
   ],
   "thumbnail": "fateindustries-pack-image.png",
   "zips": {
-    "FateIndustries Mash-Up Pack.zip": ""
+    "FateIndustries.zip": "",
+    "FateIndustries.zip.001": "",
+    "FateIndustries.zip.002": "",
+    "FateIndustries.zip.003": ""
   },
   "version": "1.0.0",
   "required_versions": [
     "legacy_evolved"
-  ]
+]
 }
