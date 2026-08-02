@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T01:53:29.517Z",
-  "count": 77,
+  "generated_at": "2026-08-02T19:29:53.011Z",
+  "count": 78,
   "packages": [
     {
       "id": "1-20-skin",
@@ -1178,6 +1178,21 @@
       "required_versions": [
         "legacy_evolved"
       ]
+    },
+    {
+      "id": "tu0-tutorial",
+      "name": "TU0 Tutorial World",
+      "author": "neoapps-dev",
+      "description": "Pre-TU1 Prototype Tutorial World",
+      "extended_description": "This is a prototype version of the original tutorial world from the Console Edition of Minecraft. It includes a tutorial area, village, two castles, a lighthouse, and the infamous water mill. This tutorial world was lost for 14 years, yet officially discovered on February 28, 2026.\n\nCredits to \"The Minecraft Architect\" for uploading the original one and converting it to Java Edition.\n\n## This is a conversion of the world from Java Edition to LCE using Emerald v1.6.0",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "2026-08-02_22.06.30.png",
+      "zips": {
+        "TU0 Tutorial.zip": "{GameHDD}"
+      },
+      "version": "0.0.0"
     },
     {
       "id": "tu12tutorial",
