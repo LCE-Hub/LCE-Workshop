@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T19:29:53.011Z",
-  "count": 78,
+  "generated_at": "2026-08-03T09:32:00.695Z",
+  "count": 79,
   "packages": [
     {
       "id": "1-20-skin",
@@ -413,6 +413,30 @@
         "texture.zip": "{DLCDir}"
       },
       "version": "1.0.0"
+    },
+    {
+      "id": "fateindustries-pack",
+      "name": "FateIndustries Mash-Up Pack",
+      "author": "FateIndustries",
+      "description": "Adds my mash-up pack, comprising of the survival world me and my friends worked on, my texture pack and my 94-skin pack.",
+      "extended_description": "Adds my mash-up pack, comprising of the survival world me and my friends worked on, my texture pack and my 94-skin pack.\nMy mash-up pack also replaces the bow sound effect and the achievement icon for 'The Lie', as well as the music discs '13', 'cat' and 'where are we now'. Included is a guide on how to restore these files (.txt file located in root of game install directory).",
+      "category": [
+        "DLC",
+        "Skin",
+        "Texture",
+        "World"
+      ],
+      "thumbnail": "fateindustries-pack-image.png",
+      "zips": {
+        "FateIndustries.zip": "",
+        "FateIndustries.zip.001": "",
+        "FateIndustries.zip.002": "",
+        "FateIndustries.zip.003": ""
+      },
+      "version": "1.0.0",
+      "required_versions": [
+        "legacy_evolved"
+      ]
     },
     {
       "id": "fnaf-v1",
