@@ -1,0 +1,18 @@
+{
+  "id": "fnaf-1",
+  "name": "FNAF 1 Map",
+  "author": "fitness231344-jpg",
+  "description": "Full recreation of the FNAF 1 Map.",
+  "extended_description": "Full FNAF 1 map complete with power and puzzles. Made by: Jeans\nDiscord: jeans1117\n\nIf you cover this on social media I ask that you please give me credit as the creator, thanks.",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "Screenshot 2026-08-06 000123.png",
+  "zips": {
+    "20260806040722.zip": "{GameHDD}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "legacy_evolved"
+  ]
+}
