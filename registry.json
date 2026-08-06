@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T08:00:24.185Z",
-  "count": 80,
+  "generated_at": "2026-08-06T08:01:27.945Z",
+  "count": 81,
   "packages": [
     {
       "id": "1-20-skin",
@@ -864,6 +864,21 @@
       "thumbnail": "sb-download-2.1.jpeg",
       "zips": {
         "Skyblock-2.1.zip": "{GameHDD}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "skywars",
+      "name": "Skywars",
+      "author": "fitness231344-jpg",
+      "description": "Simple 2 - 8 player skywars map.",
+      "extended_description": "Simple skywars map. 2 - 4 players solo 8 players duo.\n\nIf you cover this map on social media I ask that you credit me as the creator, thanks.\n\nAny issues contact me on discord. jeans1117",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "Screenshot 2026-08-06 025535.png",
+      "zips": {
+        "skywars.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
