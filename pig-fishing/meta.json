@@ -1,0 +1,15 @@
+{
+  "id": "pig-fishing",
+  "name": "Pig Fishing",
+  "author": "Jeanz2313",
+  "description": "Fish the most pigs to win!",
+  "extended_description": "A recreation of the Hypixel party game Pig Fishing. Made by: Jeans\n\n2 - 4 Players\n\nContact me if you have any issues, suggestions, or comments.\nDiscord: jeans1117",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "Screenshot 2026-08-06 163048.png",
+  "zips": {
+    "pigfishing.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
