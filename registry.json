@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T09:32:00.695Z",
-  "count": 79,
+  "generated_at": "2026-08-06T08:00:24.185Z",
+  "count": 80,
   "packages": [
     {
       "id": "1-20-skin",
@@ -432,6 +432,24 @@
         "FateIndustries.zip.001": "",
         "FateIndustries.zip.002": "",
         "FateIndustries.zip.003": ""
+      },
+      "version": "1.0.0",
+      "required_versions": [
+        "legacy_evolved"
+      ]
+    },
+    {
+      "id": "fnaf-1",
+      "name": "FNAF 1 Map",
+      "author": "fitness231344-jpg",
+      "description": "Full recreation of the FNAF 1 Map.",
+      "extended_description": "Full FNAF 1 map complete with power and puzzles. Made by: Jeans\nDiscord: jeans1117\n\nIf you cover this on social media I ask that you please give me credit as the creator, thanks.",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "Screenshot 2026-08-06 000123.png",
+      "zips": {
+        "20260806040722.zip": "{GameHDD}"
       },
       "version": "1.0.0",
       "required_versions": [
