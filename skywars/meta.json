@@ -9,7 +9,7 @@
   ],
   "thumbnail": "Screenshot 2026-08-06 025535.png",
   "zips": {
-    "skywars.zip": "{DLCDir}"
+    "skywars.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
