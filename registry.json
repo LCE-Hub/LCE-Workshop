@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T08:01:27.945Z",
-  "count": 81,
+  "generated_at": "2026-08-08T17:39:09.177Z",
+  "count": 82,
   "packages": [
     {
       "id": "1-20-skin",
@@ -34,6 +34,25 @@
       "thumbnail": "2026-07-30_16.23.02.png",
       "zips": {
         "Minecraft Texture Update.zip": "{DLCDir}"
+      },
+      "version": "1.0.0",
+      "required_versions": [
+        "legacy_evolved"
+      ]
+    },
+    {
+      "id": "1453",
+      "name": "Console Netherite",
+      "author": "yhanleotech1468-eng",
+      "description": "Tuff ",
+      "extended_description": "",
+      "category": [
+        "Texture",
+        "DLC"
+      ],
+      "thumbnail": "Captura de Tela (50).png",
+      "zips": {
+        "Console_Netherite.zip": "{DLCDir}"
       },
       "version": "1.0.0",
       "required_versions": [
