@@ -9,7 +9,7 @@
   ],
   "thumbnail": "Screenshot 2026-08-06 163048.png",
   "zips": {
-    "pigfishing.zip": "{DLCDir}"
+    "pigfishing.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
