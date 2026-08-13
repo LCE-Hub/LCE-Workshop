@@ -1,0 +1,15 @@
+{
+  "id": "my-skin",
+  "name": "My Skin",
+  "author": "jacksonthehedgehog0-creator",
+  "description": "my skin",
+  "extended_description": "my skim",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "Csuperdude.png",
+  "zips": {
+    "Csuperdude.png": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
