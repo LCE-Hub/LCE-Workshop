@@ -1,0 +1,15 @@
+{
+  "id": "tu1tutorial",
+  "name": "TU1 Tutorial World",
+  "author": "Jared1930704",
+  "description": "This is the original tutorial world from the Console Edition of Minecraft. It includes a tutorial area, two villages, a lighthouse, and the infamous castle with a library. Credits to \"The Minecraft Architect\"",
+  "extended_description": "",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "TU1 Image 1.png",
+  "zips": {
+    "TU1 Tutorial World [Xbox 360 Latest] [UNZIP].zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
