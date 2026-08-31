@@ -1,13 +1,13 @@
 {
   "id": "mikusmodules", // ID
-  "name": "Miku's Modules", // Name
+  "name": "Miku's Modules +", // Name
   "author": "dydymiku_", // Author
-  "description": "A 3D Hatsune Miku Skin Pack that's taking all the modules from the Project Diva/Project Sekai games, as well as the fan made Mikus!", // Description
-  "extended_description": "",
+  "description": "A 3D Hatsune Miku Skin Pack that has a great goal: bringing all the Project Diva modules back into Legacy Console Edition, made solo by an autistic lover of Hatsune Miku. Made in France :)", // Description
+  "extended_description": "Special thanks for Deca_dent for the OG 3D Miku model and Sails for the encouragement along with the entire community, without this, the entire project wouldn't be possible. Long live Hatsune Miku! ^^",
   "category": ["Skin", "DLC"], // Category
   "thumbnail": "thumbnail.jpg", // Thumbnail filename
   "zips": {
     "texture.zip": "{DLCDir}"
   },
-  "version": "1.1.0"
+  "version": "2.0.0"
 }
