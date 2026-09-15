@@ -13,6 +13,8 @@ The Workshop is a free, open-source alternative to the Minecraft Marketplace for
 - **Texture Packs**
 - **DLCs**: Expansion packs, maps, etc.
 - **Mods**: Using mod loaders, of course.
+- **Emerald Launcher Plugins**
+- **Custom versions to add to your launcher**
 - **Worlds**
 
 ## How to Contribute
