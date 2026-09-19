@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:33:40.881Z",
+  "generated_at": "2026-09-19T15:25:00.224Z",
   "count": 89,
   "packages": [
     {
@@ -1141,7 +1141,7 @@
       ],
       "thumbnail": "Screenshot 2026-09-19 085050.png",
       "zips": {
-        "steelMod(EXTRACT_BEFORE_USE).zip": "mods"
+        "steelMod(EXTRACT_BEFORE_USE).zip": "Windows64/Mods"
       },
       "version": "1.0.0",
       "required_versions": [
