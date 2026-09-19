@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T15:51:42.606Z",
-  "count": 87,
+  "generated_at": "2026-09-19T07:58:41.462Z",
+  "count": 88,
   "packages": [
     {
       "id": "1-20-skin",
@@ -879,6 +879,22 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "RePlastic Texture Pack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "rickandmorty-skinpack",
+      "name": "Rick and Morty Skin Pack",
+      "author": "VoltaicBtw1",
+      "description": "only tested on hellish ends",
+      "extended_description": "",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "image_2026-09-18_191704819(2).png",
+      "zips": {
+        "@Rick And Morty Skin Pack.zip.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
