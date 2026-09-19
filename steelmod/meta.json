@@ -1,0 +1,18 @@
+{
+  "id": "steelmod",
+  "name": "Steel Mod",
+  "author": "deadvoxelx",
+  "description": "A true LCE mod, adding Steel into your game!",
+  "extended_description": "A Ruby Launcher mod. The first Legacy mod, adding Steel-related blocks and items to your game. Use this as an example to create your own mods. \nOnly compatible with Hellish Ends.",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "Screenshot 2026-09-19 085050.png",
+  "zips": {
+    "steelMod(EXTRACT_BEFORE_USE).zip": "mods"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "legacy_nether_fork"
+  ]
+}
