@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:58:41.462Z",
+  "generated_at": "2026-09-19T09:16:10.017Z",
   "count": 88,
   "packages": [
     {
@@ -159,7 +159,7 @@
     {
       "id": "blue-redstone",
       "name": "Blue Redstone",
-      "author": "wassupiamYusuf",
+      "author": "IAmYusufiom",
       "description": "Makes redstone blue. Bluestone.",
       "extended_description": "Changes redstone to be blue, including the rails, items, the ore and redstone dust.\nevil redstone dust oo oooo",
       "category": [
@@ -205,7 +205,7 @@
     {
       "id": "chocolate-blueberry-cake",
       "name": "Chocolate Blueberry Cake",
-      "author": "wassupiamYusuf",
+      "author": "IAmYusufiom",
       "description": "Changes the cake to be a chocolate blueberry cake.",
       "extended_description": "Changes the cake to be a chocolate cake while also replacing the red strawberry parts of the cake with blue blueberries.",
       "category": [
