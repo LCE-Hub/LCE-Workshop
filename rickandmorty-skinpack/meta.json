@@ -12,8 +12,5 @@
   "zips": {
     "@Rick And Morty Skin Pack.zip.zip": "{DLCDir}"
   },
-  "version": "1.0.0",
-  "required_versions": [
-    "legacy_nether_fork"
-  ]
+  "version": "1.0.0"
 }
