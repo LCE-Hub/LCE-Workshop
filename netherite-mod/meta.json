@@ -9,9 +9,9 @@
   ],
   "thumbnail": "netherite_mod.png",
   "zips": {
-    "netherite_mod(EXTRACT_BEFORE_USE).zip": "mods"
+    "netherite_mod_1.0.1(EXTRACT_BEFORE_USE).zip": "mods"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "required_versions": [
     "legacy_nether_fork"
   ]
