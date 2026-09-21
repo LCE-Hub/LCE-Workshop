@@ -3,15 +3,15 @@
   "name": "Netherite Mod",
   "author": "minecraftbossdj",
   "description": "A Mod for hellish ends that adds netherite! There is also a new addition: Scrap ore, spawns in the overworld! You get 2 nuggets per ore, and 9 nuggets make one scrap. Smithing template is also here! ",
-  "extended_description": "A Mod for hellish ends that adds netherite!\n\nCurrently the ore gen is broken (from what ive tested) and only spawns ore in the overworld, so i decided to add: Scrap Ore in the overworld!  you get 2 nuggets per ore, and 9 nuggets make one scrap. The smithing template is still required so you still need to go to the nether.",
+  "extended_description": "A Mod for hellish ends that adds netherite!\n\nOriginally, the ore spawning was broken and only spawned ore in the overworld, so i decided to add: Scrap Ore in the overworld! The ore gen should now work in the nether. you get 2 nuggets per ore, and 9 nuggets make one scrap. The smithing template is still required so you still need to go to the nether.",
   "category": [
     "Mod"
   ],
   "thumbnail": "netherite_mod.png",
   "zips": {
-    "netherite_mod(EXTRACT_BEFORE_USE).zip": "mods"
+    "netherite_mod_1.0.1(EXTRACT_BEFORE_USE).zip": "mods"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "required_versions": [
     "legacy_nether_fork"
   ]
