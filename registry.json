@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T11:17:45.264Z",
-  "count": 90,
+  "generated_at": "2026-09-25T12:19:43.975Z",
+  "count": 91,
   "packages": [
     {
       "id": "1-20-skin",
@@ -1229,6 +1229,22 @@
         "texture.zip": "{DLCDir}"
       },
       "version": "1.0.0"
+    },
+    {
+      "id": "tetris-skin-pack",
+      "name": "Tetris Skin Pack",
+      "author": "FuniBuni",
+      "description": "Minecraft custom Tetris skin pack!",
+      "extended_description": "Custom skin pack for Minecraft Legacy Console Edition. Comes with 9 custom skins; three normal sized characters, Gameboy Character, and five block characters.",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "Tetris Skin Pack thumb.jpg",
+      "zips": {
+        "Tetris Skin Pack.zip": "{DLCDir}"
+      },
+      "version": "0.9.0"
     },
     {
       "id": "texturepacktemplate",
