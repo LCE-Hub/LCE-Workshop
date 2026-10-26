@@ -1,0 +1,15 @@
+{
+  "id": "buckets-cool-skins",
+  "name": "Bucket's 4D Skins!!",
+  "author": "thatlazybucket-dotcom",
+  "description": "Ever wanted to be a block? Or perhaps a creeper?.. Well now you can!! With Bucket's 4D Skins anything is possible!!",
+  "extended_description": "( **Possibly more updates coming soon...** )",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "Screenshot 2026-10-26 044645.png",
+  "zips": {
+    "Bucket's 4D Skins.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
