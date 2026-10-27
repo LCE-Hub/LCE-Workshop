@@ -1,0 +1,15 @@
+{
+  "id": "faithless-pack",
+  "name": "Faithless Resource Pack",
+  "author": "thatlazybucket-dotcom",
+  "description": "x32 texture pack of the faithless resource pack on computer now on legacy console! ",
+  "extended_description": "( **No animated textures / mob skins like how optifine does.** )",
+  "category": [
+    "Texture", "DLC"
+  ],
+  "thumbnail": "638611939315408748.png",
+  "zips": {
+    "Faithless.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
