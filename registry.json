@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:05:54.745Z",
+  "generated_at": "2026-11-02T15:38:24.338Z",
   "count": 93,
   "packages": [
     {
@@ -1194,9 +1194,9 @@
       ],
       "thumbnail": "Screenshot 2026-09-19 085050.png",
       "zips": {
-        "steelMod(EXTRACT_BEFORE_USE).zip": "mods"
+        "steelMod-v1.1.0.zip": "mods"
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "required_versions": [
         "legacy_nether_fork"
       ]
