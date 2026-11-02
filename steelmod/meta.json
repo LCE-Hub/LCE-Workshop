@@ -9,9 +9,9 @@
   ],
   "thumbnail": "Screenshot 2026-09-19 085050.png",
   "zips": {
-    "steelMod(EXTRACT_BEFORE_USE).zip": "mods"
+    "steelMod-v1.1.0.zip": "mods"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "required_versions": [
     "legacy_nether_fork"
   ]
