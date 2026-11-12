@@ -1,0 +1,19 @@
+{
+  "id": "pixblocks",
+  "name": "Pixel's Blocks",
+  "author": "WickedGlitch",
+  "description": "this mod adds some cool new blocks to the game to make cool builds with ",
+  "extended_description": "this mod adds some cool new blocks to the game to make cool builds with\n\ntheres only 3 blocks right now (+ a super secret 4th one) but i plan to add more and possibly some other stuff",
+  "category": [
+    "Skin",
+    "Mod"
+  ],
+  "thumbnail": "screen.png",
+  "zips": {
+    "pixels-blocks.zip": "{DLCDir}"
+  },
+  "version": "0.01",
+  "required_versions": [
+    "legacy_nether_fork"
+  ]
+}
