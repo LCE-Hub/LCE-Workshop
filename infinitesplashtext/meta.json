@@ -1,16 +1,22 @@
 {
   "id": "infinitesplashtext",
-  "name": "Infinite Splash Text",
+  "name": "Infinite Splash Text!",
   "author": "LCEGuys",
   "description": "Splashes made by the community, for the community!",
-  "extended_description": "1916 Community Splashes - 384 Official Splashes!",
+  "extended_description": "2166 Community Splashes - 384 Official Splashes!\n\nFirst Emerald Exclusive Drop, R.I.P LCEList",
   "category": [
     "Mod"
   ],
-  "thumbnail": "InShot_20260827_110252227.gif",
+  "thumbnail": "infinitesplashtext.gif",
   "zips": {
-    "splashes (7).zip": "Common/Media/MediaWindows64"
+    "INFINITESPLASHTEXT 8.zip": "common/media/mediawindows64"
   },
-  "required_versions": ["legacy_evolved"],
-  "version": "1.0.6"
+  "version": "1.0.8",
+  "required_versions": [
+    "moon_edition",
+    "legacy_nether_fork",
+    "360revived",
+    "legacy_evolved",
+    "revelations"
+  ]
 }
