@@ -9,14 +9,7 @@
   ],
   "thumbnail": "infinitesplashtext.gif",
   "zips": {
-    "INFINITESPLASHTEXT 8.zip": "common/media/mediawindows64"
+    "INFINITESPLASHTEXT 8.zip": "Common/Media/MediaWindows64"
   },
-  "version": "1.0.8",
-  "required_versions": [
-    "moon_edition",
-    "legacy_nether_fork",
-    "360revived",
-    "legacy_evolved",
-    "revelations"
-  ]
+  "version": "1.0.8"
 }
