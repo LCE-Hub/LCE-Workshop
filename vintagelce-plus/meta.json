@@ -1,0 +1,18 @@
+{
+  "id": "vintagelce-plus",
+  "name": "VintageLCE+",
+  "author": "LumaXTX",
+  "description": "A port of the java texture pack vintage to NeoLegacy (W.I.P)",
+  "extended_description": "this was updated using the previous vintage port made by ThePurpleDude as a base, all credits to him and the original creator of the pack",
+  "category": [
+    "Texture"
+  ],
+  "thumbnail": "Vinateg.png",
+  "zips": {
+    "VintageLCE+.zip": "Windows64Media/DLC"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "legacy_evolved"
+  ]
+}
