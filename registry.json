@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T09:35:39.461Z",
-  "count": 96,
+  "generated_at": "2026-11-19T19:46:28.247Z",
+  "count": 97,
   "packages": [
     {
       "id": "1-20-skin",
@@ -1546,6 +1546,25 @@
         "VintageLCE.zip": "{DLCDir}"
       },
       "version": "1.0.0"
+    },
+    {
+      "id": "vintagelce-plus",
+      "name": "VintageLCE+",
+      "author": "LumaXTX",
+      "description": "A port of the java texture pack vintage to NeoLegacy (W.I.P)",
+      "extended_description": "this was updated using the previous vintage port made by ThePurpleDude as a base, all credits to him and the original creator of the pack",
+      "category": [
+        "Texture",
+        "DLC"
+      ],
+      "thumbnail": "Vinateg.png",
+      "zips": {
+        "VintageLCE+.zip": "{DLCDir}"
+      },
+      "version": "1.0.0",
+      "required_versions": [
+        "legacy_evolved"
+      ]
     },
     {
       "id": "vitaui",
