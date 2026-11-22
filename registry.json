@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T19:46:28.247Z",
-  "count": 97,
+  "generated_at": "2026-11-22T12:42:17.108Z",
+  "count": 98,
   "packages": [
     {
       "id": "1-20-skin",
@@ -575,6 +575,21 @@
         "Gre's Skin 1.1.zip": "{DLCDir}"
       },
       "version": "1.0.1"
+    },
+    {
+      "id": "hauntedforest",
+      "name": "Haunted Forest",
+      "author": "deadvoxelx",
+      "description": "A gray, gloomy forest biome mod",
+      "extended_description": "A mod that adds a new biome, the Haunted Forest. No passive mobs spawn here, only hostiles, with Cave Spiders instead of regular Spiders, and higher Witch spawn rates, making it decently more dangerous.",
+      "category": [
+        "Mod"
+      ],
+      "thumbnail": "hauntedForestLogo.png",
+      "zips": {
+        "hauntedForest.zip": "mods"
+      },
+      "version": "1.0.0"
     },
     {
       "id": "hedgecraft-krabozaki",
