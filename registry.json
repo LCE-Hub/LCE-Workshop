@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:44:26.319Z",
+  "generated_at": "2026-11-22T18:58:34.385Z",
   "count": 99,
   "packages": [
     {
@@ -1045,7 +1045,7 @@
       "zips": {
         "siftMod.zip": "mods"
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "required_versions": [
         "legacy_nether_fork"
       ]
