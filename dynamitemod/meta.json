@@ -1,0 +1,15 @@
+{
+  "id": "dynamitemod",
+  "name": "Dynamite Mod",
+  "author": "deadvoxelx",
+  "description": "A mod adding throwable Dynamite to your game!",
+  "extended_description": "A mod adding 3 new throwable bombs to your world, Dynamite, Poison Dynamite, and Thunder Dynamite!",
+  "category": [
+    "Mod"
+  ],
+  "thumbnail": "DynamiteModThumbnail.jpg",
+  "zips": {
+    "dynamiteMod.zip": "mods"
+  },
+  "version": "1.0.0"
+}
