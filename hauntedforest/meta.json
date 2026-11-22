@@ -5,7 +5,6 @@
   "description": "A gray, gloomy forest biome mod",
   "extended_description": "A mod that adds a new biome, the Haunted Forest. No passive mobs spawn here, only hostiles, with Cave Spiders instead of regular Spiders, and higher Witch spawn rates, making it decently more dangerous.",
   "category": [
-    "Skin",
     "Mod"
   ],
   "thumbnail": "hauntedForestLogo.png",
