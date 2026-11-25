@@ -1,0 +1,12 @@
+{
+  "id": "legacy-console-edition-plus",
+  "name": "Legacy Console Edition+",
+  "author": "Volistic",
+  "description": "neoLegacy with Java Edition commands, command blocks and data packs",
+  "extended_description": "# Legacy Console Edition+\nneoLegacy (Windows) with Java Edition commands and command blocks.\n\n## Features\n- **Command blocks**: impulse, repeating and chain, plus craftable survival command blocks that cost XP levels\n- **Java Edition commands** from 1.12 to 26.3, chosen per world on the world's Commands page\n- **Java-style autocomplete** in chat and in the command block editor, on keyboard and controller (RT)\n- **Titles, action bar, boss bars, scoreboard sidebar** and `/dialog` screens\n- **Data packs and functions**: `.mcfunction` files, `/reload`, `/function`, load and tick tags\n- **Newer attributes** (`scale`, `gravity`, `step_height`, reach...), game rules and `/tick`\n- **In-game command wiki**: How to Play > Commands\n\nBack up your worlds before opening them in a modded version.",
+  "category": ["Mod"],
+  "thumbnail": "thumbnail.png",
+  "logo": "logo.png",
+  "url": "https://github.com/Volistic/legacy-console-edition-plus/releases/download/v1.0.0/Legacy-Console-Edition-Plus-1.0.0.zip",
+  "version": "1.0.0"
+}
