@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:58:34.385Z",
+  "generated_at": "2026-11-26T18:29:23.485Z",
   "count": 99,
   "packages": [
     {
@@ -896,16 +896,16 @@
       "id": "pixblocks",
       "name": "Pixel's Blocks",
       "author": "WickedGlitch",
-      "description": "this mod adds some cool new blocks to the game to make cool builds with ",
-      "extended_description": "this mod adds some cool new blocks to the game to make cool builds with\n\ntheres only 3 blocks right now (+ a super secret 4th one) but i plan to add more and possibly some other stuff",
+      "description": "i like blocks",
+      "extended_description": "v1.0.0 is finally here!\n\nThis mod adds 4 new sets of blocks to the game; Granite, Limestone, Marble, and Gneiss.\n\nI do have plans for more blocks, so stay tuned!",
       "category": [
         "Mod"
       ],
-      "thumbnail": "screen.png",
+      "thumbnail": "pixblocksshowcase.png",
       "zips": {
         "pixels-blocks.zip": "mods"
       },
-      "version": "0.0.1",
+      "version": "1.0.0",
       "required_versions": [
         "legacy_nether_fork"
       ]
