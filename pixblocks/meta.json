@@ -9,7 +9,7 @@
   ],
   "thumbnail": "pixblocksshowcase.png",
   "zips": {
-    "pixels-blocks.zip": "{DLCDir}"
+    "pixels-blocks.zip": "mods"
   },
   "version": "1.0.0",
   "required_versions": [
