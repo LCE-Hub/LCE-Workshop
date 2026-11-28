@@ -1,0 +1,20 @@
+{
+  "id": "ps3dlc",
+  "name": "Minecraft playstion 3 dlc",
+  "author": "yanikams",
+  "description": "All The Dlc/Texture Pack of the Old Minecraft ps3 Edition",
+  "extended_description": "",
+  "category": [
+    "Texture",
+    "DLC"
+  ],
+  "thumbnail": "apps.37921.64935872599882667.a32e85da-d619-403a-a3bf-9a5d0efab499.jpg",
+  "zips": {
+    "NPEB01899_MINECRAFT_ALL_DLC_FIXv39.pkg": "{DLCDir}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "360revived",
+    "legacy_evolved"
+  ]
+}
